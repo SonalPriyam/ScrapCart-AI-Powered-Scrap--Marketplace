@@ -1,0 +1,3001 @@
+scrap_type,quantity,location,condition,expected_price
+Paper,46,Hyderabad,Used,10.04
+Others,55,Chennai,Other,8.18
+E waste,135,Bangalore,Used,48.15
+Others,130,Hyderabad,Used,9.67
+Glass,49,Mumbai,Used,22.41
+E waste,70,Lucknow,New,80.19
+E waste,127,Mumbai,Damaged,43.15
+Glass,72,Kolkata,Damaged,13.81
+Plastic,99,Jaipur,Other,12.52
+E waste,46,Delhi,Damaged,35.06
+Plastic,119,Hyderabad,Recyclable,11.36
+Others,100,Ahmedabad,Other,7.58
+Others,126,Delhi,Damaged,14.07
+Clothes,45,Hyderabad,Other,5.21
+E waste,139,Lucknow,Other,38.62
+Metal,67,Lucknow,Used,35.14
+Others,27,Mumbai,New,40.55
+Metal,41,Bangalore,Recyclable,42.02
+Paper,125,Kolkata,Damaged,4.47
+Plastic,131,Bangalore,Recyclable,16.33
+Paper,138,Ahmedabad,New,14.24
+Others,31,Hyderabad,Recyclable,11.57
+Clothes,118,Chennai,Damaged,6.55
+Clothes,52,Ahmedabad,Recyclable,11.94
+Others,112,Chennai,Other,29.89
+E waste,44,Bangalore,Used,42.73
+E waste,111,Bangalore,New,54.02
+Plastic,113,Lucknow,Used,16.04
+Plastic,38,Jaipur,Recyclable,20.91
+Metal,120,Mumbai,Other,37.52
+Plastic,68,Pune,New,23.21
+E waste,27,Bangalore,New,72.59
+Plastic,49,Bangalore,Other,18.7
+Plastic,87,Delhi,Damaged,11.25
+E waste,130,Lucknow,New,80.91
+Metal,29,Lucknow,Damaged,29.19
+Others,51,Lucknow,Used,23.95
+Others,54,Mumbai,Damaged,6.14
+Glass,36,Chennai,Used,20.39
+E waste,114,Delhi,Recyclable,58.66
+Clothes,57,Kolkata,Damaged,7.53
+Plastic,57,Chennai,Other,11.56
+Others,70,Delhi,Recyclable,19.89
+Glass,98,Hyderabad,New,30.31
+Others,23,Chennai,Other,29.64
+Plastic,82,Mumbai,New,16.2
+Others,15,Hyderabad,Recyclable,34.99
+E waste,129,Bangalore,Other,68.47
+Paper,55,Lucknow,Other,8.23
+Plastic,64,Bangalore,Other,13.88
+E waste,89,Lucknow,Damaged,43.6
+Clothes,25,Lucknow,Other,8.36
+Metal,10,Kolkata,Used,38.35
+Paper,120,Delhi,New,10.95
+Plastic,62,Chennai,Damaged,7.25
+Paper,19,Pune,Other,7.42
+Metal,17,Chennai,Recyclable,60.02
+Others,38,Pune,Other,28.53
+Glass,102,Mumbai,Recyclable,19.95
+Clothes,143,Mumbai,Damaged,6.53
+Glass,60,Delhi,Recyclable,23.69
+Paper,142,Jaipur,Damaged,6.73
+Plastic,89,Kolkata,Recyclable,13.32
+Paper,123,Jaipur,Recyclable,10.07
+Plastic,122,Bangalore,Used,16.28
+Clothes,31,Hyderabad,New,12.45
+Metal,128,Jaipur,Other,44.07
+Paper,132,Chennai,Used,6.71
+Paper,66,Ahmedabad,New,15.57
+E waste,34,Delhi,Used,58.31
+Others,50,Lucknow,Other,18.9
+Paper,137,Ahmedabad,Used,9.5
+Others,101,Ahmedabad,Recyclable,15.0
+E waste,7,Jaipur,New,90.06
+Plastic,60,Pune,Other,15.36
+Plastic,143,Lucknow,Other,10.72
+Others,31,Lucknow,Recyclable,9.51
+Glass,5,Pune,Damaged,12.49
+Others,27,Lucknow,Used,7.62
+Clothes,23,Ahmedabad,Damaged,10.05
+Glass,116,Ahmedabad,Damaged,16.14
+Paper,15,Jaipur,Other,10.78
+Glass,22,Ahmedabad,Used,18.24
+Metal,101,Jaipur,Used,32.74
+E waste,99,Kolkata,Used,44.56
+Others,10,Lucknow,Recyclable,12.56
+Plastic,134,Delhi,Used,14.36
+E waste,76,Ahmedabad,Other,61.72
+Glass,30,Chennai,New,32.81
+Paper,125,Ahmedabad,New,13.33
+Others,9,Kolkata,Recyclable,27.39
+Metal,121,Jaipur,Recyclable,58.59
+Clothes,128,Chennai,Other,5.62
+Paper,100,Bangalore,Damaged,6.12
+Others,123,Pune,New,16.81
+Others,89,Jaipur,Damaged,19.08
+Glass,17,Lucknow,New,29.54
+Metal,9,Hyderabad,New,77.84
+Clothes,71,Pune,Used,5.07
+Others,37,Chennai,Used,8.25
+Metal,144,Chennai,New,55.17
+Metal,136,Kolkata,Other,40.43
+Clothes,25,Lucknow,Damaged,6.88
+E waste,48,Bangalore,Recyclable,77.71
+Metal,24,Hyderabad,Used,42.96
+Plastic,81,Bangalore,New,15.21
+Plastic,26,Jaipur,Damaged,11.17
+Others,45,Delhi,Damaged,17.46
+Plastic,40,Kolkata,Used,10.01
+Metal,21,Ahmedabad,Damaged,18.78
+Glass,38,Bangalore,Damaged,17.35
+Plastic,53,Mumbai,Damaged,12.97
+Clothes,33,Bangalore,Used,14.32
+Paper,128,Kolkata,New,7.98
+Paper,18,Ahmedabad,Other,9.31
+Clothes,77,Bangalore,Damaged,4.79
+Plastic,21,Pune,New,13.36
+Others,84,Lucknow,Used,17.52
+Clothes,139,Hyderabad,New,13.69
+Paper,30,Delhi,New,10.73
+Paper,88,Hyderabad,Damaged,4.63
+Metal,33,Chennai,Other,33.71
+E waste,139,Mumbai,New,72.94
+Plastic,14,Chennai,New,25.13
+Plastic,72,Kolkata,Damaged,12.08
+E waste,67,Kolkata,Recyclable,54.01
+Others,57,Mumbai,Used,23.81
+E waste,119,Lucknow,New,82.54
+Others,33,Kolkata,Other,8.6
+E waste,141,Lucknow,Used,52.65
+Glass,99,Jaipur,Recyclable,21.18
+Plastic,137,Ahmedabad,New,19.55
+Clothes,91,Lucknow,Damaged,4.6
+Others,100,Bangalore,Recyclable,31.93
+Plastic,30,Mumbai,Used,12.45
+Others,90,Hyderabad,New,20.48
+Glass,54,Ahmedabad,New,31.73
+Metal,74,Mumbai,Damaged,20.75
+Glass,119,Lucknow,Other,14.76
+Paper,76,Mumbai,New,14.38
+Clothes,81,Jaipur,Recyclable,10.47
+Others,23,Pune,Damaged,7.05
+Metal,42,Ahmedabad,Other,37.29
+Clothes,87,Lucknow,Damaged,9.62
+Plastic,85,Hyderabad,Other,17.93
+Clothes,36,Jaipur,New,11.05
+Plastic,64,Chennai,New,19.86
+Others,47,Pune,Other,26.42
+Paper,108,Jaipur,New,12.82
+Clothes,53,Kolkata,Recyclable,8.52
+Plastic,96,Bangalore,Damaged,11.78
+Others,132,Mumbai,Other,26.32
+E waste,121,Kolkata,Damaged,44.78
+Clothes,135,Jaipur,Recyclable,11.63
+Clothes,18,Hyderabad,Other,14.8
+Paper,72,Hyderabad,Used,5.06
+Clothes,64,Mumbai,Recyclable,11.05
+Metal,105,Kolkata,Other,52.76
+Glass,147,Ahmedabad,Other,19.79
+Clothes,81,Kolkata,New,8.68
+Clothes,15,Pune,Damaged,8.88
+Glass,59,Hyderabad,New,35.84
+Paper,94,Delhi,Damaged,4.37
+Clothes,116,Bangalore,New,17.58
+Clothes,76,Delhi,Used,10.58
+Metal,136,Jaipur,Used,24.64
+Clothes,49,Mumbai,Other,8.52
+Plastic,107,Delhi,Other,17.49
+Glass,26,Mumbai,Damaged,14.39
+Clothes,128,Jaipur,Recyclable,16.18
+Metal,129,Pune,Other,39.39
+Metal,66,Mumbai,Other,49.42
+Plastic,77,Kolkata,Used,14.97
+Metal,37,Kolkata,Used,53.71
+Clothes,51,Ahmedabad,Used,6.28
+Glass,148,Chennai,Used,13.23
+Glass,9,Bangalore,Other,18.31
+Others,5,Mumbai,Damaged,19.1
+Metal,52,Delhi,Other,42.67
+E waste,17,Jaipur,Damaged,34.7
+E waste,132,Lucknow,New,48.73
+Others,130,Bangalore,Used,8.11
+Glass,108,Pune,Recyclable,26.23
+Clothes,66,Pune,Used,8.97
+E waste,72,Mumbai,Recyclable,50.76
+Clothes,60,Mumbai,Recyclable,9.13
+Clothes,91,Jaipur,Other,13.58
+Glass,111,Mumbai,Damaged,12.26
+Metal,99,Bangalore,Damaged,20.4
+Glass,137,Jaipur,Damaged,14.32
+E waste,55,Lucknow,Recyclable,65.36
+Paper,98,Pune,Damaged,4.59
+E waste,129,Pune,Recyclable,49.49
+E waste,45,Hyderabad,Other,74.85
+Paper,41,Chennai,New,12.24
+Clothes,117,Hyderabad,Used,10.74
+Others,10,Delhi,Used,29.86
+Paper,28,Chennai,Recyclable,7.26
+E waste,94,Lucknow,Used,62.33
+E waste,33,Lucknow,Recyclable,60.81
+Paper,62,Mumbai,Used,6.73
+Plastic,29,Bangalore,Damaged,10.78
+Glass,109,Jaipur,Used,14.21
+Others,130,Pune,New,38.29
+E waste,25,Bangalore,Damaged,44.64
+Metal,10,Mumbai,Other,30.18
+Glass,20,Kolkata,Recyclable,25.52
+Clothes,34,Jaipur,Recyclable,15.51
+Glass,88,Mumbai,Other,18.34
+Plastic,15,Ahmedabad,New,15.31
+Plastic,59,Lucknow,Used,11.62
+Others,72,Kolkata,Damaged,20.89
+Others,96,Lucknow,Used,18.12
+E waste,81,Chennai,Damaged,42.2
+Plastic,107,Jaipur,Other,15.79
+Clothes,127,Kolkata,New,12.74
+Plastic,132,Kolkata,New,14.26
+Others,63,Bangalore,Recyclable,21.86
+Others,104,Delhi,Used,9.44
+Plastic,63,Bangalore,Used,17.42
+Metal,123,Bangalore,Damaged,31.01
+Paper,48,Pune,New,11.29
+Paper,75,Bangalore,Used,5.55
+Others,126,Delhi,Recyclable,24.62
+Clothes,7,Lucknow,Used,11.0
+Clothes,147,Pune,Recyclable,11.17
+Plastic,112,Bangalore,Used,15.85
+Glass,25,Pune,Used,20.86
+Others,71,Ahmedabad,Recyclable,24.32
+Plastic,68,Kolkata,Recyclable,12.28
+Metal,75,Mumbai,Recyclable,32.06
+Others,91,Bangalore,Other,28.9
+Plastic,95,Ahmedabad,Used,16.28
+Glass,149,Chennai,Other,14.9
+Metal,44,Ahmedabad,Other,44.47
+Others,133,Jaipur,Damaged,5.52
+E waste,100,Lucknow,Used,44.23
+Glass,80,Kolkata,Recyclable,19.42
+Plastic,89,Kolkata,Damaged,6.06
+Metal,123,Mumbai,Other,45.18
+Paper,28,Chennai,Other,6.51
+Clothes,100,Kolkata,Used,6.62
+Clothes,21,Mumbai,Other,11.32
+E waste,123,Pune,Other,55.96
+Metal,95,Chennai,Damaged,35.02
+Clothes,43,Kolkata,Used,9.31
+E waste,125,Delhi,Damaged,41.92
+Clothes,5,Jaipur,Used,5.85
+E waste,18,Mumbai,Recyclable,55.64
+Plastic,120,Chennai,Recyclable,16.42
+Plastic,96,Kolkata,Used,13.02
+Glass,12,Ahmedabad,Used,25.19
+Glass,31,Bangalore,Used,24.09
+Glass,67,Hyderabad,New,30.66
+E waste,106,Pune,Used,55.58
+Glass,105,Kolkata,Damaged,15.37
+Paper,32,Hyderabad,Damaged,4.05
+Clothes,139,Pune,New,7.03
+Paper,129,Bangalore,Recyclable,9.93
+Metal,98,Ahmedabad,Recyclable,42.21
+Others,45,Ahmedabad,Damaged,13.28
+Metal,127,Lucknow,Damaged,24.65
+E waste,55,Delhi,New,82.33
+Plastic,62,Bangalore,Other,15.44
+Paper,59,Jaipur,Recyclable,9.97
+Glass,22,Pune,New,34.83
+Clothes,9,Chennai,New,12.62
+Others,35,Pune,Used,23.78
+Metal,144,Pune,Used,38.86
+Paper,119,Hyderabad,Used,8.59
+Clothes,34,Kolkata,Other,6.47
+Clothes,125,Jaipur,New,11.79
+Paper,15,Jaipur,Damaged,5.25
+Metal,18,Lucknow,Other,54.32
+Others,42,Delhi,Other,30.13
+Paper,49,Ahmedabad,Damaged,5.66
+E waste,91,Chennai,Damaged,28.58
+Paper,120,Kolkata,Recyclable,11.98
+Others,76,Kolkata,Used,26.17
+Glass,144,Jaipur,Used,20.53
+Others,149,Delhi,Recyclable,9.02
+Others,96,Bangalore,Used,13.49
+Plastic,125,Ahmedabad,Recyclable,17.73
+Others,59,Kolkata,Other,27.45
+Glass,18,Jaipur,Damaged,15.36
+Others,76,Pune,New,27.12
+Metal,49,Lucknow,Used,39.45
+Glass,78,Lucknow,Recyclable,19.87
+E waste,67,Pune,Recyclable,47.39
+Clothes,43,Chennai,Used,6.59
+Clothes,139,Jaipur,New,9.8
+Metal,57,Delhi,Other,28.63
+Others,119,Lucknow,Damaged,5.43
+Plastic,46,Delhi,Other,19.0
+E waste,123,Bangalore,New,69.99
+Plastic,52,Ahmedabad,Other,18.63
+Glass,64,Hyderabad,New,32.02
+Paper,103,Mumbai,Used,5.03
+Glass,45,Hyderabad,Used,19.43
+Metal,37,Ahmedabad,Recyclable,62.93
+Metal,32,Delhi,Other,32.56
+Metal,57,Mumbai,Used,35.77
+Glass,22,Mumbai,New,20.52
+Paper,118,Kolkata,Recyclable,6.15
+Clothes,5,Bangalore,Other,9.47
+E waste,109,Delhi,Used,60.47
+Plastic,46,Delhi,Recyclable,20.89
+Plastic,15,Pune,New,22.55
+Clothes,27,Lucknow,Other,9.09
+Clothes,38,Ahmedabad,Damaged,8.09
+Clothes,119,Jaipur,Damaged,4.0
+Glass,59,Bangalore,Other,23.58
+Plastic,117,Pune,Used,13.69
+Paper,68,Ahmedabad,Damaged,4.56
+Clothes,100,Hyderabad,Used,9.93
+E waste,53,Ahmedabad,Recyclable,76.31
+E waste,137,Kolkata,Used,47.82
+E waste,64,Bangalore,Damaged,38.75
+Plastic,59,Hyderabad,Other,11.15
+Clothes,55,Ahmedabad,Damaged,7.42
+Clothes,19,Delhi,Other,6.43
+Glass,83,Lucknow,Recyclable,25.31
+Others,64,Pune,Damaged,20.8
+Others,98,Pune,Other,12.62
+Glass,96,Lucknow,Used,15.68
+Clothes,35,Hyderabad,New,17.7
+Plastic,87,Hyderabad,New,13.08
+Others,20,Delhi,Used,16.86
+Metal,146,Jaipur,Other,45.6
+Others,19,Jaipur,Other,12.69
+Plastic,98,Kolkata,Other,10.94
+E waste,83,Kolkata,Used,43.79
+Metal,24,Lucknow,New,64.2
+E waste,106,Bangalore,Used,51.62
+Paper,148,Chennai,Damaged,5.01
+Clothes,68,Chennai,Recyclable,13.31
+Glass,37,Bangalore,Damaged,13.01
+Clothes,19,Pune,Used,4.8
+Plastic,37,Ahmedabad,New,14.16
+Clothes,60,Pune,Recyclable,16.29
+E waste,53,Ahmedabad,Recyclable,52.84
+E waste,31,Kolkata,Other,52.66
+Glass,58,Mumbai,Recyclable,24.82
+E waste,41,Ahmedabad,Other,43.32
+Glass,110,Ahmedabad,New,25.96
+Others,80,Pune,Used,25.03
+Clothes,44,Delhi,Damaged,6.26
+Metal,24,Chennai,Used,32.37
+E waste,100,Delhi,Recyclable,49.86
+Plastic,135,Pune,Other,16.24
+Plastic,101,Lucknow,New,16.23
+Metal,134,Pune,Damaged,21.67
+Clothes,48,Hyderabad,Used,5.5
+Glass,145,Bangalore,Other,17.95
+Others,95,Chennai,Other,12.3
+E waste,66,Hyderabad,Damaged,45.79
+Others,14,Bangalore,Used,12.37
+Metal,49,Kolkata,Used,48.87
+E waste,112,Mumbai,New,71.28
+Metal,89,Pune,Recyclable,32.5
+Clothes,96,Hyderabad,Damaged,9.52
+Clothes,108,Bangalore,Damaged,5.92
+Clothes,45,Chennai,New,18.49
+Clothes,142,Pune,Used,9.38
+Paper,129,Lucknow,Recyclable,8.62
+E waste,14,Hyderabad,New,75.48
+Clothes,8,Mumbai,Damaged,4.19
+Clothes,7,Pune,New,12.67
+Metal,9,Pune,Other,43.54
+Clothes,73,Jaipur,Used,6.73
+Paper,137,Kolkata,Damaged,4.81
+Others,96,Kolkata,Other,25.94
+Plastic,12,Mumbai,Used,11.42
+Plastic,41,Kolkata,Used,17.53
+Glass,86,Hyderabad,Damaged,16.43
+Clothes,29,Delhi,Damaged,4.0
+Paper,52,Chennai,Recyclable,8.37
+Paper,46,Lucknow,New,13.15
+Metal,33,Chennai,New,72.58
+Glass,38,Hyderabad,New,34.72
+Glass,26,Mumbai,Used,22.47
+Plastic,68,Ahmedabad,Used,14.56
+Metal,56,Hyderabad,New,39.0
+Clothes,84,Mumbai,New,8.46
+E waste,5,Hyderabad,Used,52.42
+Clothes,39,Hyderabad,Used,12.39
+Glass,133,Ahmedabad,Used,20.07
+E waste,55,Delhi,Damaged,44.07
+Paper,49,Kolkata,Other,9.15
+Metal,56,Mumbai,Recyclable,38.07
+Metal,9,Kolkata,Other,54.44
+Metal,56,Mumbai,Recyclable,52.24
+Paper,135,Kolkata,Other,10.77
+Glass,8,Jaipur,Used,22.1
+Plastic,107,Kolkata,Used,14.28
+E waste,27,Bangalore,Recyclable,50.29
+Others,102,Pune,Other,8.97
+Clothes,104,Lucknow,Recyclable,10.27
+Clothes,18,Hyderabad,New,20.03
+Clothes,19,Lucknow,Damaged,4.0
+E waste,63,Bangalore,Damaged,26.83
+Glass,120,Pune,Other,21.62
+Paper,83,Lucknow,Other,6.13
+Glass,40,Delhi,Recyclable,23.98
+Paper,22,Bangalore,Used,7.71
+Plastic,125,Hyderabad,New,16.66
+Glass,48,Ahmedabad,Used,17.56
+Others,35,Ahmedabad,New,39.83
+Glass,20,Pune,Other,17.52
+Paper,41,Ahmedabad,Other,11.97
+E waste,48,Lucknow,New,67.68
+Paper,90,Mumbai,Used,5.46
+Plastic,20,Hyderabad,Other,16.36
+Plastic,120,Ahmedabad,Other,16.59
+E waste,24,Chennai,New,52.83
+Others,135,Mumbai,Other,21.71
+Paper,103,Bangalore,Used,7.87
+Others,89,Hyderabad,Used,18.12
+Metal,102,Kolkata,Used,44.82
+Others,11,Hyderabad,Recyclable,38.27
+Clothes,31,Bangalore,Used,7.21
+Paper,128,Pune,Other,7.08
+Plastic,53,Ahmedabad,Other,10.95
+Plastic,34,Mumbai,New,23.24
+Clothes,63,Hyderabad,Damaged,8.38
+Glass,122,Pune,New,22.74
+Glass,127,Chennai,Used,14.13
+Clothes,10,Mumbai,Damaged,5.07
+Paper,110,Jaipur,Recyclable,7.68
+E waste,73,Kolkata,Used,57.92
+Metal,62,Bangalore,Damaged,18.94
+Others,43,Delhi,New,14.28
+E waste,71,Mumbai,Damaged,38.97
+Paper,23,Jaipur,Used,9.97
+Glass,40,Delhi,Recyclable,20.01
+Others,61,Pune,Recyclable,37.52
+Others,63,Pune,New,37.58
+Plastic,62,Pune,Damaged,11.98
+Metal,33,Bangalore,Other,39.02
+E waste,63,Chennai,Damaged,47.73
+E waste,85,Ahmedabad,Other,38.09
+Others,53,Mumbai,Damaged,9.74
+E waste,12,Mumbai,Other,51.19
+Clothes,34,Pune,Used,11.16
+Plastic,126,Mumbai,Used,10.55
+Paper,28,Jaipur,New,9.29
+Glass,149,Jaipur,Used,14.48
+Others,140,Jaipur,Damaged,9.41
+Clothes,80,Jaipur,Recyclable,10.42
+Glass,100,Ahmedabad,Recyclable,24.14
+E waste,132,Kolkata,Damaged,24.45
+Clothes,74,Pune,Other,7.86
+E waste,8,Delhi,Damaged,45.87
+Glass,91,Jaipur,Recyclable,22.94
+Glass,26,Mumbai,Used,21.17
+Glass,49,Mumbai,Recyclable,24.21
+Glass,56,Kolkata,Used,17.89
+Paper,84,Mumbai,Other,9.32
+Plastic,7,Lucknow,Used,10.9
+Others,138,Kolkata,New,16.34
+Metal,46,Jaipur,Damaged,29.46
+Glass,125,Delhi,Damaged,12.68
+E waste,52,Jaipur,New,70.35
+E waste,56,Pune,Other,40.9
+Others,107,Kolkata,Used,7.79
+Plastic,62,Bangalore,New,18.41
+Glass,7,Chennai,Damaged,10.38
+Glass,109,Hyderabad,Used,12.64
+Paper,30,Jaipur,Recyclable,6.77
+Clothes,104,Kolkata,Recyclable,7.55
+Clothes,101,Kolkata,Recyclable,6.59
+Paper,95,Delhi,New,11.35
+Paper,81,Chennai,Damaged,6.57
+E waste,110,Mumbai,New,52.87
+E waste,86,Delhi,Recyclable,54.58
+Glass,104,Chennai,Recyclable,26.17
+Paper,89,Hyderabad,Other,7.38
+Clothes,37,Delhi,Used,12.76
+Plastic,132,Jaipur,Other,14.92
+Clothes,45,Lucknow,Recyclable,8.32
+Plastic,88,Pune,Used,9.7
+Clothes,89,Bangalore,New,16.07
+Metal,80,Chennai,Recyclable,29.21
+Glass,106,Chennai,Recyclable,26.62
+Metal,73,Ahmedabad,Other,31.75
+Others,115,Jaipur,Other,27.45
+E waste,99,Kolkata,Damaged,40.12
+Clothes,17,Bangalore,Damaged,9.84
+Metal,110,Lucknow,Used,36.83
+Clothes,9,Kolkata,New,13.82
+Glass,88,Ahmedabad,Used,14.12
+E waste,19,Ahmedabad,Damaged,37.12
+Plastic,112,Bangalore,New,12.5
+Paper,36,Hyderabad,Damaged,5.64
+E waste,78,Kolkata,New,87.39
+Glass,95,Ahmedabad,Damaged,16.04
+Glass,67,Lucknow,New,36.3
+Plastic,68,Kolkata,Other,12.88
+Clothes,19,Delhi,Used,8.61
+Others,55,Pune,Damaged,14.16
+Plastic,147,Lucknow,Damaged,6.75
+E waste,134,Lucknow,Used,44.89
+Paper,116,Kolkata,New,13.22
+Clothes,148,Delhi,Other,11.29
+E waste,98,Mumbai,Recyclable,47.62
+Others,82,Chennai,Recyclable,15.86
+Metal,138,Mumbai,New,65.48
+Paper,103,Ahmedabad,Recyclable,10.51
+Glass,140,Lucknow,Damaged,16.42
+Others,61,Lucknow,New,28.55
+E waste,141,Bangalore,Other,57.9
+Paper,54,Lucknow,Recyclable,12.17
+E waste,86,Chennai,Damaged,35.01
+Plastic,77,Chennai,Other,13.21
+Plastic,145,Mumbai,New,13.25
+E waste,23,Ahmedabad,New,92.06
+Others,105,Hyderabad,New,13.56
+Others,69,Lucknow,New,31.42
+Plastic,121,Kolkata,Used,13.5
+E waste,106,Chennai,Used,37.77
+Metal,106,Bangalore,Used,37.25
+Metal,86,Pune,Recyclable,58.05
+Others,73,Pune,Damaged,5.49
+Others,7,Bangalore,Recyclable,29.97
+Paper,143,Lucknow,Other,5.94
+Paper,29,Lucknow,New,10.2
+Others,47,Hyderabad,Damaged,21.35
+Plastic,111,Bangalore,Used,10.33
+E waste,89,Kolkata,New,59.57
+Plastic,57,Ahmedabad,Used,11.63
+Others,137,Hyderabad,New,29.09
+Clothes,8,Lucknow,Recyclable,16.93
+Glass,74,Ahmedabad,New,31.93
+Glass,54,Lucknow,New,29.93
+Plastic,30,Pune,Damaged,11.69
+Plastic,96,Jaipur,Damaged,6.87
+Plastic,138,Bangalore,Recyclable,16.55
+Others,146,Pune,New,11.66
+Metal,83,Kolkata,Other,36.95
+Clothes,110,Mumbai,Other,10.06
+Clothes,84,Jaipur,New,7.38
+Glass,111,Lucknow,Other,24.53
+Plastic,36,Delhi,Recyclable,12.66
+Paper,73,Ahmedabad,Other,9.23
+Glass,56,Pune,New,29.47
+Plastic,60,Ahmedabad,Recyclable,18.04
+Glass,82,Mumbai,Other,22.28
+Others,111,Hyderabad,Recyclable,8.2
+Paper,98,Chennai,Other,10.34
+Paper,76,Mumbai,Damaged,5.56
+E waste,34,Chennai,Damaged,35.48
+E waste,93,Pune,Recyclable,48.3
+Metal,43,Chennai,Used,29.99
+Others,42,Delhi,Damaged,11.28
+Glass,13,Chennai,New,30.23
+Glass,76,Hyderabad,Used,20.78
+Metal,40,Mumbai,Used,47.69
+Clothes,39,Pune,New,19.12
+E waste,53,Pune,Recyclable,66.72
+Plastic,126,Hyderabad,Used,10.7
+Glass,56,Jaipur,Damaged,11.59
+Plastic,15,Kolkata,Recyclable,15.53
+E waste,47,Delhi,Other,65.72
+Clothes,134,Pune,Used,13.3
+Clothes,73,Mumbai,New,18.37
+Others,48,Mumbai,Damaged,7.55
+Plastic,109,Hyderabad,Used,13.68
+Others,75,Kolkata,Recyclable,15.54
+Metal,87,Jaipur,Other,27.54
+E waste,37,Lucknow,Recyclable,54.42
+E waste,47,Delhi,New,57.87
+Glass,124,Mumbai,Recyclable,19.06
+Metal,48,Lucknow,Used,43.28
+E waste,97,Kolkata,New,88.28
+E waste,149,Lucknow,Damaged,24.28
+Clothes,133,Mumbai,Recyclable,16.13
+Paper,129,Hyderabad,Used,6.95
+Others,58,Chennai,Other,34.54
+Plastic,35,Kolkata,Recyclable,13.05
+Plastic,5,Kolkata,Recyclable,17.62
+Plastic,144,Delhi,New,16.78
+Plastic,73,Mumbai,Recyclable,11.51
+Glass,107,Lucknow,Used,16.67
+Clothes,135,Ahmedabad,New,14.04
+E waste,57,Ahmedabad,Recyclable,48.78
+Plastic,67,Pune,Damaged,9.65
+Others,128,Bangalore,Recyclable,26.52
+Others,124,Ahmedabad,Used,15.65
+Paper,62,Kolkata,Recyclable,10.42
+Paper,58,Jaipur,Damaged,4.05
+Metal,12,Pune,Used,44.54
+Plastic,76,Delhi,Other,17.23
+Clothes,138,Hyderabad,Damaged,7.68
+Glass,106,Delhi,Used,22.97
+Glass,17,Hyderabad,New,29.33
+E waste,85,Delhi,Used,55.79
+Glass,124,Chennai,New,33.38
+Glass,55,Bangalore,Recyclable,25.13
+Metal,12,Bangalore,Damaged,23.5
+Paper,30,Lucknow,Recyclable,11.78
+Metal,52,Mumbai,Used,26.22
+E waste,46,Jaipur,New,64.29
+Paper,127,Chennai,Used,6.67
+Clothes,37,Bangalore,Used,10.0
+E waste,149,Chennai,Damaged,44.39
+Clothes,110,Bangalore,Damaged,9.14
+Others,77,Ahmedabad,Other,32.17
+Others,91,Hyderabad,Other,30.57
+E waste,117,Chennai,Used,55.58
+Others,73,Pune,Other,29.96
+Others,38,Jaipur,New,15.79
+Others,22,Delhi,New,38.94
+E waste,59,Delhi,Used,58.97
+Clothes,96,Hyderabad,Damaged,4.0
+Glass,28,Ahmedabad,Other,21.62
+E waste,43,Jaipur,Recyclable,54.41
+E waste,73,Ahmedabad,Used,35.2
+Paper,101,Delhi,Damaged,7.17
+Others,5,Ahmedabad,New,28.8
+Metal,132,Kolkata,New,37.87
+Paper,124,Jaipur,New,7.85
+Glass,68,Jaipur,Other,20.89
+Clothes,43,Pune,New,19.68
+Paper,27,Kolkata,New,14.58
+Paper,120,Kolkata,Recyclable,10.32
+Clothes,35,Jaipur,Used,12.47
+Plastic,42,Ahmedabad,Other,11.8
+E waste,45,Kolkata,Recyclable,74.1
+Metal,83,Delhi,Other,44.38
+Others,6,Mumbai,Other,25.55
+E waste,49,Ahmedabad,Used,40.04
+Others,57,Ahmedabad,Recyclable,22.18
+Glass,117,Delhi,Damaged,16.38
+Metal,56,Mumbai,Damaged,35.91
+Others,79,Pune,Damaged,13.29
+E waste,65,Ahmedabad,Damaged,26.91
+E waste,51,Kolkata,New,82.59
+E waste,26,Ahmedabad,Other,67.28
+Plastic,133,Pune,New,16.0
+Metal,79,Pune,Damaged,32.61
+Others,61,Hyderabad,Recyclable,16.14
+Plastic,62,Kolkata,Damaged,10.97
+Plastic,28,Chennai,Other,16.78
+Plastic,18,Bangalore,New,23.92
+Paper,116,Pune,Damaged,7.04
+Plastic,120,Bangalore,Used,14.05
+E waste,148,Lucknow,Other,62.28
+Clothes,129,Kolkata,New,8.19
+Plastic,133,Delhi,Other,17.43
+Others,135,Pune,New,40.72
+Others,125,Pune,Recyclable,19.87
+Paper,7,Jaipur,Other,8.35
+E waste,23,Bangalore,Damaged,47.76
+E waste,122,Lucknow,Damaged,29.38
+Paper,92,Jaipur,Used,10.01
+Plastic,67,Chennai,Damaged,12.18
+Others,15,Chennai,Used,8.33
+E waste,126,Pune,Used,45.49
+Glass,134,Kolkata,Damaged,14.3
+Others,150,Bangalore,Damaged,20.97
+Plastic,13,Chennai,Recyclable,14.5
+Clothes,66,Mumbai,Used,5.63
+Plastic,117,Kolkata,Other,13.0
+Others,138,Ahmedabad,New,18.85
+Metal,70,Ahmedabad,Other,57.17
+Metal,84,Jaipur,Other,50.98
+Glass,62,Hyderabad,Recyclable,17.01
+Metal,31,Mumbai,Other,32.62
+E waste,138,Bangalore,New,83.51
+Others,92,Pune,Other,16.82
+Glass,122,Jaipur,Damaged,12.5
+Glass,67,Delhi,Used,18.79
+Metal,15,Jaipur,Damaged,25.79
+Clothes,19,Chennai,New,12.06
+Glass,149,Pune,Recyclable,26.17
+Paper,84,Delhi,Damaged,6.44
+Clothes,93,Hyderabad,Damaged,4.13
+Metal,34,Hyderabad,Recyclable,43.18
+E waste,139,Lucknow,Damaged,40.01
+Plastic,148,Hyderabad,Used,9.73
+Metal,102,Bangalore,Damaged,30.76
+Others,77,Ahmedabad,Other,17.66
+Clothes,15,Chennai,Recyclable,7.5
+Glass,89,Hyderabad,Other,24.17
+Clothes,63,Delhi,New,18.48
+Glass,58,Pune,Other,18.94
+Metal,64,Chennai,Damaged,22.08
+Clothes,122,Ahmedabad,Other,9.31
+Plastic,65,Ahmedabad,Used,9.6
+E waste,61,Ahmedabad,Other,66.18
+Paper,84,Chennai,Other,5.96
+Plastic,71,Pune,Used,13.99
+Others,123,Delhi,New,38.01
+Others,108,Ahmedabad,Used,24.36
+Paper,123,Kolkata,New,13.1
+Clothes,95,Chennai,Used,9.97
+Plastic,12,Delhi,Damaged,6.87
+Plastic,45,Delhi,New,22.84
+Plastic,84,Mumbai,New,20.47
+Metal,97,Jaipur,Used,43.72
+E waste,39,Chennai,Damaged,45.32
+Others,64,Lucknow,Recyclable,22.08
+Plastic,81,Bangalore,Recyclable,19.19
+Glass,55,Bangalore,Recyclable,21.66
+Paper,51,Hyderabad,Recyclable,8.07
+Glass,33,Pune,New,28.02
+Plastic,143,Hyderabad,New,16.13
+Metal,73,Delhi,Other,30.6
+E waste,105,Ahmedabad,Recyclable,65.61
+Plastic,107,Pune,Recyclable,10.25
+Plastic,28,Ahmedabad,New,24.11
+Others,130,Bangalore,Used,10.32
+E waste,12,Lucknow,Used,43.83
+E waste,79,Lucknow,Used,34.8
+Glass,126,Lucknow,Recyclable,25.07
+Paper,118,Pune,Used,6.71
+Paper,138,Mumbai,Other,9.11
+Metal,89,Lucknow,Used,37.75
+Glass,33,Delhi,Other,26.45
+Glass,53,Jaipur,Other,22.84
+Others,30,Hyderabad,Other,17.57
+Clothes,35,Bangalore,Other,12.41
+Metal,126,Chennai,New,37.35
+Metal,106,Bangalore,Recyclable,28.77
+Clothes,56,Delhi,Other,14.6
+Glass,149,Delhi,Damaged,15.6
+E waste,29,Pune,New,62.23
+Paper,53,Chennai,Damaged,5.86
+Plastic,140,Ahmedabad,Used,12.16
+Metal,145,Bangalore,Recyclable,50.09
+E waste,101,Lucknow,New,62.4
+Clothes,83,Pune,New,11.05
+Plastic,22,Ahmedabad,New,22.65
+Metal,23,Pune,Recyclable,48.62
+Others,46,Lucknow,Used,8.49
+Glass,25,Chennai,Recyclable,19.09
+Others,63,Bangalore,Used,24.7
+Metal,136,Chennai,Recyclable,48.49
+E waste,40,Bangalore,Other,43.6
+E waste,102,Bangalore,New,77.2
+Glass,113,Bangalore,Used,15.39
+E waste,115,Ahmedabad,Used,34.72
+Others,68,Bangalore,Recyclable,25.39
+Metal,144,Chennai,New,54.06
+Others,17,Pune,Other,20.95
+Others,75,Delhi,Used,8.24
+Metal,23,Chennai,Other,51.18
+Glass,88,Delhi,Used,15.93
+Metal,37,Lucknow,New,46.81
+Paper,99,Mumbai,Other,8.93
+Metal,22,Ahmedabad,New,63.79
+Paper,148,Hyderabad,Recyclable,7.89
+Glass,26,Bangalore,Damaged,17.85
+Paper,40,Kolkata,Used,6.04
+Others,75,Mumbai,Damaged,11.02
+E waste,61,Delhi,New,86.37
+E waste,100,Lucknow,New,74.21
+Metal,48,Delhi,Damaged,37.28
+Others,15,Kolkata,New,31.99
+Others,76,Delhi,Damaged,8.43
+Others,83,Delhi,New,39.14
+Others,53,Hyderabad,Damaged,15.0
+E waste,95,Ahmedabad,Other,59.11
+Clothes,93,Ahmedabad,Recyclable,10.49
+Others,36,Lucknow,New,35.22
+E waste,113,Bangalore,New,69.18
+Metal,120,Mumbai,Other,45.53
+Glass,54,Lucknow,Other,19.55
+Glass,129,Ahmedabad,Recyclable,15.65
+E waste,49,Kolkata,Other,66.26
+E waste,25,Chennai,Damaged,32.57
+Metal,49,Bangalore,Other,45.63
+Paper,44,Chennai,Other,10.58
+Paper,24,Lucknow,Other,9.12
+Clothes,46,Ahmedabad,Damaged,4.4
+Metal,11,Mumbai,Other,58.82
+Clothes,25,Hyderabad,Damaged,4.0
+Clothes,135,Pune,Used,10.64
+Others,78,Mumbai,Recyclable,10.54
+Plastic,126,Jaipur,Damaged,8.38
+Others,98,Mumbai,New,40.34
+Metal,79,Hyderabad,Damaged,33.69
+Clothes,42,Hyderabad,New,9.04
+Glass,75,Delhi,Other,25.0
+E waste,46,Hyderabad,Other,52.09
+Others,116,Kolkata,Damaged,13.72
+Metal,45,Mumbai,New,38.17
+Paper,114,Delhi,Recyclable,12.25
+Clothes,20,Jaipur,Recyclable,11.61
+Metal,73,Jaipur,Used,38.08
+Metal,84,Jaipur,Other,30.93
+Metal,87,Kolkata,Other,54.83
+E waste,80,Bangalore,Used,36.61
+E waste,90,Mumbai,Recyclable,54.02
+Others,5,Mumbai,Damaged,21.75
+Plastic,121,Lucknow,Used,12.71
+Others,64,Lucknow,Recyclable,9.96
+Plastic,71,Ahmedabad,Other,11.78
+Clothes,7,Hyderabad,Other,6.83
+Metal,26,Ahmedabad,Other,35.02
+Others,72,Pune,Other,10.56
+Glass,94,Kolkata,New,25.1
+E waste,136,Ahmedabad,Damaged,26.46
+Others,135,Kolkata,Damaged,5.34
+Paper,123,Jaipur,New,11.95
+Clothes,142,Delhi,Damaged,4.0
+E waste,78,Jaipur,New,83.27
+Metal,47,Mumbai,Recyclable,54.54
+Clothes,127,Bangalore,New,11.91
+Others,119,Hyderabad,New,10.06
+Clothes,57,Delhi,Other,7.84
+Paper,95,Bangalore,Used,7.7
+Glass,29,Lucknow,Other,23.99
+Others,55,Pune,Damaged,11.22
+Metal,140,Ahmedabad,Used,48.47
+Plastic,147,Delhi,Damaged,7.34
+Others,92,Delhi,Other,19.5
+Clothes,73,Pune,Used,10.29
+Clothes,51,Kolkata,Damaged,6.33
+Others,140,Chennai,Other,8.95
+E waste,14,Bangalore,Used,47.74
+Metal,98,Mumbai,Other,28.61
+Clothes,107,Jaipur,Used,6.76
+Paper,59,Mumbai,New,8.64
+Metal,81,Ahmedabad,Other,39.17
+Plastic,108,Jaipur,Used,11.61
+E waste,99,Kolkata,Used,41.54
+Metal,129,Kolkata,Used,49.66
+Others,84,Ahmedabad,Recyclable,13.43
+Clothes,108,Lucknow,Used,4.35
+Paper,125,Mumbai,Used,6.74
+Others,75,Jaipur,New,39.29
+Plastic,59,Pune,Recyclable,20.56
+Plastic,89,Pune,New,21.55
+Plastic,43,Ahmedabad,Recyclable,14.72
+E waste,29,Delhi,Damaged,37.43
+Clothes,53,Lucknow,Other,13.09
+Glass,119,Chennai,Damaged,11.31
+Others,113,Pune,Other,9.05
+Metal,122,Hyderabad,Damaged,30.68
+Clothes,41,Jaipur,New,10.36
+Paper,27,Delhi,Used,6.27
+Clothes,33,Bangalore,Used,5.34
+Clothes,92,Jaipur,Recyclable,10.68
+Paper,52,Pune,New,9.53
+Paper,8,Delhi,Damaged,5.49
+Glass,87,Lucknow,Damaged,14.7
+Metal,137,Jaipur,New,52.93
+Clothes,54,Delhi,Damaged,8.01
+Paper,82,Lucknow,Used,9.18
+Glass,9,Bangalore,Other,24.99
+Others,44,Hyderabad,Used,21.37
+Others,73,Hyderabad,Recyclable,16.48
+Paper,117,Bangalore,Used,5.86
+Glass,99,Lucknow,New,20.32
+Clothes,109,Chennai,Used,8.0
+E waste,114,Lucknow,Used,54.67
+Others,32,Delhi,Damaged,22.51
+Plastic,55,Lucknow,Other,15.53
+Clothes,131,Pune,Used,5.3
+Paper,101,Delhi,Used,8.84
+Clothes,115,Kolkata,Used,9.31
+Others,101,Delhi,Other,17.87
+Glass,99,Kolkata,Damaged,16.53
+Others,111,Jaipur,Used,8.27
+Plastic,7,Chennai,Damaged,12.11
+Clothes,103,Mumbai,Other,9.05
+Plastic,34,Bangalore,Damaged,7.16
+E waste,97,Ahmedabad,Other,66.76
+Others,98,Kolkata,Recyclable,29.88
+Plastic,60,Jaipur,New,15.73
+Glass,11,Ahmedabad,Recyclable,17.92
+Clothes,106,Pune,Other,9.36
+Glass,42,Mumbai,Used,18.75
+Clothes,68,Lucknow,Other,10.55
+Clothes,107,Lucknow,New,6.95
+Metal,134,Kolkata,Used,41.95
+Others,71,Ahmedabad,New,12.37
+Metal,133,Bangalore,Damaged,32.62
+Glass,103,Mumbai,New,33.83
+Clothes,149,Chennai,Recyclable,5.95
+Metal,19,Pune,Damaged,23.16
+Paper,49,Hyderabad,Recyclable,10.24
+Others,10,Kolkata,New,22.98
+E waste,12,Jaipur,New,55.84
+Paper,94,Lucknow,Recyclable,11.58
+E waste,113,Kolkata,Recyclable,61.79
+Others,42,Lucknow,New,35.08
+Metal,88,Hyderabad,Used,46.43
+Others,66,Jaipur,New,17.17
+Paper,33,Lucknow,Used,9.43
+Paper,59,Ahmedabad,Damaged,4.49
+Paper,121,Delhi,Damaged,5.64
+Clothes,132,Lucknow,New,7.08
+Glass,140,Jaipur,Damaged,15.37
+Metal,16,Delhi,Recyclable,60.42
+Glass,127,Pune,Damaged,13.15
+Glass,60,Ahmedabad,Recyclable,25.81
+Paper,150,Lucknow,Used,5.78
+Paper,53,Hyderabad,New,10.45
+Clothes,123,Ahmedabad,Damaged,4.0
+Plastic,75,Mumbai,Recyclable,10.59
+Glass,107,Bangalore,Used,17.61
+Paper,61,Mumbai,Damaged,4.21
+E waste,36,Delhi,New,84.08
+Glass,121,Pune,Other,24.17
+Glass,93,Chennai,Used,21.16
+Glass,88,Bangalore,Other,22.5
+Glass,81,Ahmedabad,Used,19.12
+Clothes,126,Ahmedabad,New,17.84
+E waste,125,Hyderabad,Other,48.03
+E waste,128,Pune,Other,57.53
+Paper,82,Delhi,Other,6.42
+Glass,142,Chennai,Other,25.42
+Glass,137,Pune,Damaged,12.56
+Others,43,Bangalore,Damaged,13.23
+Metal,67,Chennai,Other,42.61
+Others,122,Chennai,Recyclable,17.84
+Glass,100,Ahmedabad,Recyclable,19.97
+Paper,21,Bangalore,Damaged,5.56
+Plastic,14,Bangalore,New,22.5
+Plastic,142,Ahmedabad,Recyclable,13.34
+Metal,122,Hyderabad,Recyclable,47.53
+Others,100,Bangalore,New,12.71
+Paper,24,Ahmedabad,Recyclable,12.93
+Glass,77,Hyderabad,Used,22.24
+Metal,99,Delhi,New,41.78
+Clothes,34,Chennai,Recyclable,10.8
+Glass,82,Pune,Used,12.66
+E waste,41,Hyderabad,Used,43.68
+Others,66,Ahmedabad,Damaged,7.68
+Clothes,109,Chennai,Other,11.08
+Clothes,30,Mumbai,Other,13.86
+Others,43,Pune,Used,27.13
+Metal,26,Ahmedabad,New,61.06
+Plastic,146,Bangalore,Other,11.51
+Others,13,Chennai,Recyclable,21.68
+Glass,45,Delhi,Damaged,15.61
+Paper,139,Jaipur,Damaged,5.21
+Clothes,142,Lucknow,Other,11.52
+Glass,93,Mumbai,Used,21.81
+Paper,69,Pune,Recyclable,12.33
+Glass,39,Bangalore,Used,21.5
+Others,82,Lucknow,Used,20.8
+Others,23,Delhi,Other,33.15
+Clothes,102,Jaipur,Other,13.37
+E waste,117,Lucknow,Damaged,33.48
+Metal,67,Delhi,New,66.07
+Clothes,28,Bangalore,Damaged,10.22
+Plastic,133,Chennai,New,18.52
+Glass,92,Delhi,New,22.28
+E waste,76,Chennai,Recyclable,75.48
+Plastic,56,Chennai,New,14.56
+Metal,59,Ahmedabad,Damaged,22.01
+Plastic,55,Bangalore,Recyclable,12.7
+Metal,16,Pune,Other,46.18
+Paper,23,Delhi,Damaged,5.2
+Paper,133,Jaipur,New,10.78
+Plastic,121,Pune,Damaged,7.25
+Glass,36,Delhi,Other,15.3
+Plastic,102,Ahmedabad,Used,12.58
+Glass,61,Jaipur,New,34.06
+Plastic,96,Mumbai,Damaged,6.4
+Plastic,138,Bangalore,Recyclable,12.39
+E waste,53,Kolkata,Damaged,36.2
+Glass,115,Ahmedabad,New,26.43
+Glass,104,Jaipur,Other,26.03
+Plastic,117,Mumbai,Damaged,6.89
+Metal,49,Bangalore,Used,31.78
+Plastic,141,Ahmedabad,Used,12.61
+E waste,67,Pune,Recyclable,59.1
+E waste,144,Lucknow,Damaged,29.03
+Metal,77,Kolkata,Other,36.5
+Paper,102,Chennai,New,10.32
+Plastic,88,Chennai,Used,8.67
+Clothes,28,Bangalore,Damaged,8.92
+Others,94,Delhi,Used,16.06
+Plastic,50,Ahmedabad,New,15.16
+Glass,49,Kolkata,New,31.39
+Others,105,Lucknow,Damaged,4.86
+E waste,86,Pune,Other,50.12
+Glass,107,Bangalore,Recyclable,20.67
+Clothes,91,Hyderabad,New,14.76
+Glass,53,Ahmedabad,New,28.8
+E waste,8,Lucknow,Other,70.94
+Clothes,140,Jaipur,New,15.25
+Clothes,146,Jaipur,Used,10.52
+Paper,110,Kolkata,Recyclable,6.64
+Clothes,90,Bangalore,Damaged,9.27
+Others,79,Mumbai,Recyclable,22.41
+Clothes,41,Mumbai,Other,12.9
+Paper,75,Pune,New,10.65
+E waste,71,Ahmedabad,Recyclable,50.12
+Glass,23,Bangalore,Damaged,13.25
+Metal,117,Lucknow,Recyclable,32.62
+Metal,139,Jaipur,Used,37.58
+Clothes,150,Hyderabad,Damaged,7.38
+Glass,148,Chennai,Damaged,10.2
+Clothes,150,Ahmedabad,Recyclable,6.29
+Glass,37,Pune,Damaged,9.81
+Glass,23,Delhi,Damaged,15.97
+Plastic,95,Mumbai,Used,14.78
+Paper,125,Jaipur,Damaged,4.95
+Metal,65,Lucknow,Other,41.41
+Metal,61,Ahmedabad,Other,51.98
+Others,16,Delhi,Damaged,19.66
+Others,142,Lucknow,New,10.32
+Metal,94,Pune,Damaged,32.93
+Others,5,Kolkata,Other,16.95
+Plastic,112,Ahmedabad,Other,14.73
+Paper,32,Bangalore,Other,9.61
+Plastic,112,Pune,Recyclable,14.31
+E waste,101,Lucknow,Used,50.77
+Others,68,Bangalore,New,39.16
+Metal,72,Pune,Other,55.68
+Plastic,113,Hyderabad,Damaged,9.56
+Others,105,Kolkata,New,37.3
+Glass,91,Delhi,Recyclable,25.66
+Clothes,57,Kolkata,Damaged,10.19
+Clothes,31,Delhi,Used,8.32
+Others,30,Hyderabad,Used,8.72
+Clothes,146,Chennai,New,10.81
+E waste,112,Kolkata,Recyclable,59.18
+E waste,22,Kolkata,Damaged,41.01
+E waste,94,Hyderabad,Other,67.0
+Glass,43,Lucknow,Used,17.51
+Clothes,150,Bangalore,Used,7.97
+Others,52,Hyderabad,Used,29.3
+Others,75,Delhi,Damaged,15.14
+E waste,70,Jaipur,Used,66.15
+Paper,83,Mumbai,Damaged,5.56
+Metal,91,Delhi,Recyclable,54.93
+E waste,67,Kolkata,Used,57.66
+Glass,104,Delhi,New,32.29
+Clothes,75,Hyderabad,Other,7.71
+Metal,6,Delhi,Damaged,36.31
+Clothes,43,Bangalore,Recyclable,6.9
+Paper,90,Delhi,Used,5.86
+Plastic,44,Hyderabad,Other,12.39
+Metal,107,Ahmedabad,Damaged,33.09
+Plastic,40,Mumbai,Damaged,8.55
+Plastic,37,Bangalore,Used,10.31
+Others,43,Jaipur,Recyclable,12.81
+Clothes,125,Bangalore,Used,8.95
+Plastic,57,Bangalore,Damaged,11.07
+Paper,53,Ahmedabad,Used,10.52
+Clothes,9,Jaipur,Damaged,8.87
+E waste,124,Hyderabad,Damaged,30.03
+Glass,99,Lucknow,New,27.24
+Plastic,56,Lucknow,Other,15.2
+Glass,26,Jaipur,New,36.15
+E waste,103,Pune,Recyclable,46.27
+Clothes,16,Hyderabad,Other,8.68
+Clothes,77,Hyderabad,Recyclable,14.63
+Plastic,75,Bangalore,Other,16.87
+Clothes,96,Chennai,Used,12.96
+E waste,43,Delhi,New,55.27
+Others,80,Ahmedabad,Used,22.63
+Paper,63,Ahmedabad,Damaged,7.43
+Paper,80,Lucknow,Other,10.59
+Clothes,88,Mumbai,Damaged,5.73
+Metal,73,Lucknow,Other,48.89
+E waste,45,Jaipur,New,91.88
+Others,138,Jaipur,Damaged,9.87
+Plastic,64,Bangalore,Used,13.35
+Others,31,Chennai,Used,23.47
+Metal,125,Pune,Used,40.16
+Others,118,Pune,Other,29.14
+Paper,116,Lucknow,Recyclable,8.19
+Glass,43,Lucknow,Damaged,10.15
+Paper,94,Hyderabad,Damaged,5.94
+Paper,59,Mumbai,Recyclable,8.04
+Others,38,Mumbai,Recyclable,18.61
+Clothes,127,Pune,Damaged,7.55
+Metal,15,Delhi,Damaged,26.5
+Glass,26,Pune,Other,26.22
+Metal,51,Jaipur,Other,53.72
+Glass,113,Chennai,Recyclable,23.71
+Paper,124,Lucknow,Damaged,7.07
+Paper,83,Mumbai,Other,10.18
+Others,119,Delhi,Other,8.3
+Glass,42,Bangalore,Used,21.14
+E waste,18,Ahmedabad,Used,41.48
+E waste,143,Hyderabad,Used,48.99
+E waste,42,Kolkata,Used,50.96
+Others,122,Pune,Used,24.6
+E waste,25,Chennai,Recyclable,45.3
+Clothes,116,Lucknow,Other,6.59
+Others,79,Pune,Used,13.87
+E waste,42,Ahmedabad,Other,48.4
+Paper,73,Lucknow,New,11.74
+Metal,119,Jaipur,Damaged,17.21
+Plastic,27,Hyderabad,Other,16.01
+Metal,127,Chennai,Recyclable,46.74
+Paper,47,Mumbai,Recyclable,8.45
+E waste,78,Bangalore,Recyclable,52.21
+Clothes,125,Mumbai,Other,14.53
+Metal,51,Lucknow,Other,31.17
+Metal,50,Mumbai,Other,55.87
+Others,60,Kolkata,Damaged,20.89
+Clothes,108,Lucknow,Other,6.45
+Glass,70,Bangalore,Used,14.46
+Glass,104,Pune,New,22.62
+Clothes,105,Delhi,Other,4.78
+Others,65,Bangalore,Recyclable,27.3
+Glass,105,Chennai,Other,14.14
+Glass,49,Delhi,Used,23.57
+Metal,88,Hyderabad,Other,53.67
+Glass,97,Ahmedabad,Used,18.28
+Metal,84,Mumbai,Recyclable,51.11
+Metal,149,Kolkata,New,39.41
+E waste,109,Pune,Other,56.77
+Plastic,149,Bangalore,New,18.76
+Clothes,89,Bangalore,Damaged,4.53
+Others,19,Delhi,Recyclable,14.64
+Others,56,Pune,Damaged,5.86
+Paper,132,Hyderabad,Other,10.93
+Others,18,Ahmedabad,New,18.42
+Metal,11,Kolkata,Recyclable,49.97
+Others,136,Delhi,Used,12.78
+Plastic,127,Ahmedabad,Other,10.01
+Clothes,130,Pune,Other,14.2
+Paper,132,Hyderabad,Recyclable,6.39
+E waste,34,Mumbai,Recyclable,78.66
+Glass,11,Chennai,Other,22.42
+Others,78,Mumbai,Other,26.1
+Metal,118,Ahmedabad,Damaged,23.0
+Paper,118,Lucknow,Recyclable,6.78
+Plastic,88,Pune,New,22.2
+Others,55,Chennai,Other,21.62
+Clothes,32,Pune,Damaged,6.31
+Paper,116,Mumbai,Other,9.06
+Clothes,34,Jaipur,Damaged,10.16
+Metal,41,Delhi,Used,25.75
+Paper,13,Delhi,New,12.5
+Metal,90,Mumbai,New,68.52
+Others,79,Jaipur,Other,22.37
+Metal,78,Hyderabad,Damaged,18.48
+Plastic,95,Kolkata,Damaged,6.18
+Paper,65,Bangalore,Other,6.96
+Others,44,Bangalore,Damaged,17.36
+Others,100,Kolkata,Used,19.83
+Clothes,119,Hyderabad,Recyclable,12.15
+Clothes,24,Jaipur,Used,9.78
+Glass,117,Lucknow,Damaged,15.47
+Others,117,Delhi,Used,22.05
+Others,122,Hyderabad,New,28.93
+Plastic,56,Kolkata,Recyclable,18.04
+E waste,122,Hyderabad,Damaged,39.03
+Paper,136,Lucknow,Damaged,6.16
+Plastic,133,Mumbai,Damaged,11.59
+Clothes,148,Chennai,Used,5.38
+Plastic,108,Jaipur,Other,11.05
+Plastic,141,Pune,Damaged,6.72
+E waste,111,Kolkata,Used,34.14
+Plastic,30,Pune,Recyclable,20.47
+Paper,144,Kolkata,New,7.93
+Others,88,Pune,Damaged,8.23
+E waste,24,Delhi,Other,63.27
+Paper,134,Kolkata,New,11.66
+Metal,109,Jaipur,Used,42.13
+Paper,68,Kolkata,Recyclable,12.64
+Paper,58,Lucknow,Other,8.7
+Plastic,84,Pune,Other,18.14
+Glass,113,Jaipur,Recyclable,28.42
+Glass,27,Bangalore,Recyclable,19.95
+E waste,21,Delhi,Recyclable,45.94
+Paper,141,Pune,Other,7.91
+E waste,59,Ahmedabad,Other,61.63
+Plastic,78,Lucknow,Other,9.45
+Paper,103,Bangalore,Other,7.34
+Plastic,49,Mumbai,Used,15.51
+Plastic,114,Chennai,Used,16.45
+Others,134,Bangalore,New,27.1
+E waste,97,Ahmedabad,Used,53.78
+E waste,107,Delhi,New,83.55
+Clothes,42,Mumbai,Recyclable,11.73
+Others,133,Jaipur,Other,7.94
+Clothes,146,Jaipur,Other,12.21
+Paper,51,Chennai,Damaged,5.77
+E waste,39,Hyderabad,Damaged,38.45
+Others,150,Pune,Used,19.18
+Others,142,Delhi,Recyclable,35.44
+E waste,141,Mumbai,Other,65.41
+Others,135,Delhi,New,22.08
+Metal,43,Bangalore,New,64.48
+Others,144,Bangalore,Recyclable,9.9
+Metal,87,Jaipur,Recyclable,42.55
+E waste,124,Bangalore,Other,67.21
+E waste,74,Pune,Recyclable,54.41
+Plastic,65,Delhi,Other,12.31
+Metal,98,Kolkata,Damaged,33.75
+Clothes,142,Hyderabad,Used,10.86
+Others,141,Bangalore,Recyclable,12.05
+Others,40,Lucknow,New,36.12
+Others,71,Bangalore,Damaged,12.21
+Clothes,72,Jaipur,Damaged,7.06
+Plastic,65,Bangalore,Other,19.51
+E waste,21,Hyderabad,Recyclable,47.97
+Metal,128,Jaipur,Damaged,28.9
+Paper,38,Ahmedabad,Used,8.8
+Paper,9,Jaipur,Used,8.82
+Glass,89,Chennai,Used,19.54
+Metal,75,Hyderabad,Other,31.16
+E waste,15,Kolkata,New,92.26
+Plastic,45,Ahmedabad,Recyclable,11.17
+Metal,96,Chennai,Used,41.17
+E waste,35,Mumbai,Damaged,43.75
+E waste,110,Mumbai,New,81.57
+Others,61,Delhi,Recyclable,23.31
+Others,145,Delhi,Other,16.91
+Others,12,Chennai,Other,22.93
+Clothes,115,Lucknow,New,14.33
+Metal,36,Jaipur,Damaged,24.18
+E waste,121,Jaipur,Recyclable,54.25
+Clothes,26,Kolkata,Used,13.98
+Clothes,134,Delhi,Used,6.97
+Clothes,48,Chennai,Recyclable,10.27
+Others,51,Mumbai,Used,14.7
+Paper,144,Delhi,Other,9.47
+Glass,51,Jaipur,New,29.36
+Others,44,Hyderabad,Damaged,10.81
+Metal,12,Ahmedabad,New,68.49
+Others,109,Mumbai,Damaged,7.97
+Others,145,Kolkata,Damaged,13.72
+Paper,68,Mumbai,Used,5.69
+Glass,74,Lucknow,Damaged,15.44
+Clothes,95,Chennai,Recyclable,12.43
+Paper,38,Delhi,Damaged,4.28
+Others,11,Hyderabad,Used,8.74
+Glass,17,Hyderabad,Recyclable,17.51
+Clothes,5,Jaipur,New,15.74
+Glass,39,Hyderabad,Used,14.46
+Metal,12,Lucknow,Other,54.17
+E waste,115,Delhi,Used,56.34
+Metal,97,Jaipur,Used,35.84
+Paper,106,Mumbai,Damaged,5.0
+Others,16,Hyderabad,Damaged,20.37
+Clothes,149,Kolkata,Other,11.94
+Clothes,50,Lucknow,Other,9.44
+Glass,33,Pune,Used,13.52
+Others,71,Kolkata,Recyclable,16.29
+E waste,88,Mumbai,Used,53.1
+Metal,122,Kolkata,New,40.66
+Plastic,76,Bangalore,Damaged,10.59
+Clothes,8,Pune,New,20.0
+E waste,27,Chennai,Damaged,44.13
+E waste,11,Kolkata,Used,56.56
+Paper,64,Pune,Other,10.5
+Paper,109,Mumbai,Other,7.12
+Glass,138,Hyderabad,Damaged,14.59
+Paper,58,Hyderabad,New,9.36
+E waste,20,Bangalore,Damaged,39.47
+Metal,28,Pune,New,66.72
+Glass,92,Pune,Damaged,15.09
+Others,134,Chennai,Recyclable,17.97
+Plastic,6,Hyderabad,Damaged,7.57
+Clothes,41,Pune,Other,14.75
+Others,25,Ahmedabad,Recyclable,12.12
+E waste,74,Chennai,Used,39.54
+Glass,126,Delhi,New,31.92
+Paper,86,Bangalore,Other,9.35
+E waste,118,Lucknow,Other,55.04
+E waste,105,Hyderabad,Other,60.7
+E waste,142,Jaipur,Damaged,32.24
+Paper,131,Pune,Recyclable,6.85
+Clothes,7,Bangalore,Used,4.75
+Clothes,72,Ahmedabad,Damaged,5.34
+Others,117,Kolkata,Used,7.3
+Glass,101,Ahmedabad,Damaged,10.99
+Paper,46,Kolkata,Recyclable,11.07
+Others,51,Lucknow,New,40.96
+E waste,103,Pune,New,58.42
+Others,130,Kolkata,New,10.55
+Metal,116,Chennai,Damaged,32.64
+Glass,35,Ahmedabad,Used,15.41
+Clothes,52,Bangalore,Recyclable,16.9
+Clothes,36,Delhi,New,7.4
+Glass,65,Kolkata,Used,21.13
+Metal,134,Kolkata,Other,28.24
+Plastic,85,Mumbai,New,14.2
+Plastic,87,Jaipur,Recyclable,13.07
+Glass,71,Pune,New,20.24
+Others,36,Bangalore,Other,13.35
+Paper,135,Bangalore,New,12.87
+Clothes,96,Ahmedabad,Used,10.36
+Paper,101,Mumbai,Damaged,4.28
+Glass,86,Pune,Used,21.55
+Paper,132,Hyderabad,Other,5.74
+Metal,111,Lucknow,New,41.14
+Metal,22,Mumbai,Damaged,36.56
+Others,122,Lucknow,Damaged,9.59
+Others,80,Delhi,New,34.44
+Paper,21,Lucknow,Other,11.23
+Metal,17,Bangalore,Recyclable,51.62
+Others,75,Kolkata,Used,25.99
+Plastic,143,Mumbai,Recyclable,12.87
+Clothes,61,Mumbai,Recyclable,15.82
+Others,97,Ahmedabad,Recyclable,28.35
+Glass,18,Jaipur,Damaged,17.3
+Others,34,Ahmedabad,Damaged,18.85
+Others,127,Hyderabad,Recyclable,34.95
+Glass,110,Mumbai,Damaged,12.48
+Metal,9,Pune,Recyclable,46.12
+E waste,42,Pune,Recyclable,79.55
+Metal,28,Lucknow,Recyclable,54.41
+Clothes,99,Chennai,Recyclable,7.21
+Others,134,Hyderabad,Damaged,10.79
+Metal,33,Delhi,Used,27.74
+Paper,62,Mumbai,Used,8.11
+Paper,76,Mumbai,Damaged,4.0
+Metal,150,Pune,New,44.56
+Paper,122,Pune,Damaged,6.58
+Clothes,82,Lucknow,Damaged,5.23
+Others,35,Pune,New,21.02
+Glass,121,Mumbai,Damaged,16.42
+Others,145,Jaipur,Damaged,5.84
+E waste,106,Kolkata,New,48.75
+E waste,7,Hyderabad,Other,54.89
+Others,66,Pune,New,31.34
+Clothes,49,Pune,Recyclable,6.0
+Metal,120,Jaipur,New,53.15
+E waste,126,Bangalore,Used,36.17
+Clothes,92,Mumbai,New,12.86
+Others,100,Jaipur,Other,26.96
+Glass,69,Pune,New,35.97
+Metal,150,Bangalore,Damaged,25.53
+Paper,8,Pune,Other,9.03
+Paper,100,Mumbai,Used,5.59
+Others,20,Jaipur,Used,14.33
+Metal,127,Chennai,New,50.38
+Metal,79,Chennai,Other,46.29
+Plastic,20,Mumbai,Other,15.9
+E waste,92,Kolkata,Other,61.12
+Others,58,Lucknow,Damaged,11.93
+Glass,149,Chennai,Used,16.09
+Plastic,68,Ahmedabad,New,24.93
+Metal,149,Kolkata,New,60.19
+E waste,150,Pune,Damaged,45.06
+Paper,37,Mumbai,Used,6.94
+Glass,41,Mumbai,New,36.18
+Metal,126,Pune,Damaged,22.38
+Metal,34,Hyderabad,Damaged,30.83
+Glass,118,Ahmedabad,Damaged,14.62
+Glass,110,Bangalore,Recyclable,26.73
+Clothes,104,Chennai,Recyclable,12.91
+Paper,51,Kolkata,Damaged,4.64
+Paper,46,Ahmedabad,Recyclable,12.68
+Glass,6,Mumbai,Damaged,15.33
+Others,130,Jaipur,Used,15.66
+Paper,76,Jaipur,New,8.92
+Metal,27,Ahmedabad,Damaged,29.68
+Paper,91,Ahmedabad,Other,7.6
+Glass,89,Chennai,Used,18.91
+Paper,99,Jaipur,Damaged,7.13
+E waste,71,Pune,Recyclable,57.93
+E waste,59,Lucknow,Other,73.5
+Clothes,87,Jaipur,Recyclable,9.02
+Others,8,Mumbai,Used,16.79
+Others,99,Ahmedabad,Other,28.01
+Paper,135,Jaipur,New,12.14
+Plastic,131,Bangalore,New,22.42
+Plastic,31,Lucknow,New,20.18
+Clothes,142,Chennai,Recyclable,6.38
+Glass,18,Mumbai,Used,17.21
+Clothes,109,Kolkata,Used,4.86
+Plastic,27,Chennai,Damaged,9.0
+Glass,52,Hyderabad,Used,19.28
+E waste,42,Kolkata,Recyclable,73.07
+Metal,5,Kolkata,Damaged,23.94
+Others,19,Kolkata,New,43.39
+Glass,89,Ahmedabad,Recyclable,15.37
+Clothes,55,Chennai,Other,12.23
+Others,139,Chennai,Used,7.11
+Glass,135,Chennai,Used,17.05
+Clothes,78,Chennai,Used,10.97
+E waste,54,Lucknow,Damaged,39.55
+Plastic,35,Delhi,Used,10.18
+Plastic,36,Pune,Used,16.24
+Others,117,Jaipur,New,18.3
+Metal,14,Delhi,New,64.57
+Metal,101,Jaipur,Recyclable,32.05
+E waste,96,Jaipur,New,53.92
+Clothes,76,Mumbai,Used,6.75
+Plastic,132,Jaipur,Recyclable,11.63
+Clothes,64,Jaipur,Other,14.38
+Clothes,28,Jaipur,Other,5.78
+Metal,7,Pune,Other,34.27
+Others,63,Lucknow,New,37.7
+Plastic,134,Kolkata,Other,17.8
+E waste,37,Lucknow,Recyclable,63.21
+E waste,72,Ahmedabad,New,86.65
+Glass,14,Chennai,New,24.49
+Glass,59,Chennai,Recyclable,30.47
+Others,68,Lucknow,Used,11.03
+Glass,58,Pune,New,21.19
+Others,121,Pune,Damaged,19.93
+Paper,71,Mumbai,New,7.75
+Plastic,135,Lucknow,Used,8.82
+Paper,138,Delhi,Used,6.18
+Paper,41,Kolkata,New,8.52
+Paper,110,Ahmedabad,Used,6.31
+Clothes,69,Ahmedabad,New,18.73
+Paper,147,Kolkata,Recyclable,8.21
+Metal,84,Jaipur,Damaged,36.21
+Glass,74,Pune,Recyclable,25.26
+Paper,34,Delhi,Used,7.21
+Paper,90,Jaipur,Recyclable,9.4
+Others,128,Ahmedabad,New,18.7
+Others,29,Lucknow,Recyclable,35.59
+Plastic,87,Jaipur,Damaged,6.22
+Plastic,121,Delhi,Damaged,11.58
+Plastic,20,Bangalore,Damaged,10.79
+Others,84,Lucknow,Used,20.19
+Plastic,53,Pune,Other,11.18
+Paper,132,Lucknow,Other,6.43
+Plastic,22,Mumbai,New,13.05
+Metal,113,Delhi,Used,39.3
+Plastic,73,Mumbai,Other,15.67
+Glass,127,Delhi,Damaged,11.01
+Plastic,23,Mumbai,Used,10.99
+Paper,35,Hyderabad,Used,6.92
+Plastic,71,Ahmedabad,Damaged,7.77
+Paper,120,Delhi,Used,7.03
+Plastic,116,Pune,Other,10.95
+Glass,53,Kolkata,New,31.01
+E waste,62,Pune,Used,51.17
+Clothes,83,Mumbai,Other,13.48
+Clothes,137,Pune,Used,10.38
+Glass,52,Lucknow,Other,23.2
+Metal,90,Delhi,Damaged,35.81
+Metal,76,Bangalore,New,66.3
+Metal,132,Ahmedabad,New,45.23
+Paper,33,Chennai,Used,10.7
+Paper,121,Chennai,New,13.83
+Glass,54,Mumbai,Damaged,10.44
+E waste,126,Ahmedabad,Used,60.29
+Metal,93,Jaipur,Used,43.38
+Glass,76,Bangalore,Recyclable,22.6
+Clothes,149,Kolkata,Other,6.12
+Clothes,137,Kolkata,Used,8.22
+E waste,61,Delhi,Other,50.16
+Glass,87,Ahmedabad,Damaged,15.21
+Metal,131,Delhi,New,34.78
+Others,18,Bangalore,Used,21.42
+Clothes,103,Delhi,New,18.99
+Others,74,Bangalore,New,32.83
+E waste,76,Chennai,New,54.2
+E waste,108,Mumbai,Recyclable,51.76
+Glass,39,Kolkata,New,27.79
+Others,36,Kolkata,Other,33.02
+Glass,42,Hyderabad,Damaged,14.03
+Paper,116,Chennai,Used,5.38
+E waste,126,Kolkata,Used,44.41
+Metal,146,Hyderabad,Other,46.11
+Paper,61,Ahmedabad,Used,9.24
+Others,58,Bangalore,Used,25.53
+Others,142,Pune,New,11.15
+Plastic,44,Delhi,Other,10.27
+Paper,120,Chennai,Recyclable,7.53
+Others,19,Ahmedabad,Used,28.47
+Metal,15,Delhi,Recyclable,57.32
+Metal,23,Mumbai,Recyclable,63.8
+Clothes,101,Bangalore,Used,12.21
+E waste,8,Delhi,Used,60.02
+Paper,22,Jaipur,Other,11.49
+Glass,90,Bangalore,Recyclable,16.25
+Plastic,124,Pune,Recyclable,12.24
+Others,65,Pune,New,31.11
+Glass,76,Jaipur,Recyclable,21.9
+Clothes,100,Jaipur,Damaged,6.82
+Metal,130,Delhi,New,46.68
+Paper,97,Bangalore,New,7.51
+Metal,111,Kolkata,Other,33.3
+Glass,39,Jaipur,Recyclable,23.19
+Clothes,149,Pune,Other,14.34
+Paper,136,Lucknow,Damaged,5.66
+E waste,60,Bangalore,New,85.9
+E waste,11,Mumbai,Other,44.18
+Glass,87,Bangalore,Used,12.91
+Clothes,92,Hyderabad,Used,12.3
+Others,112,Mumbai,Other,29.17
+Clothes,13,Bangalore,Other,11.12
+Metal,53,Hyderabad,Recyclable,60.18
+Metal,61,Hyderabad,New,53.28
+Glass,94,Kolkata,Used,14.27
+Others,135,Pune,Recyclable,16.29
+Metal,92,Chennai,Recyclable,41.98
+E waste,118,Pune,Damaged,35.53
+Glass,13,Ahmedabad,Other,18.86
+Glass,139,Jaipur,Other,22.8
+Paper,48,Hyderabad,Recyclable,10.02
+Glass,123,Mumbai,Used,22.05
+E waste,8,Bangalore,Damaged,33.21
+Metal,41,Lucknow,Damaged,23.48
+Clothes,57,Pune,Used,10.21
+Glass,51,Delhi,Other,24.31
+Plastic,120,Kolkata,Recyclable,11.24
+Metal,42,Mumbai,Damaged,38.07
+Plastic,135,Chennai,Other,18.07
+Paper,146,Mumbai,Recyclable,9.77
+Glass,45,Mumbai,Damaged,10.44
+Others,63,Ahmedabad,Recyclable,18.82
+Glass,96,Kolkata,Used,15.85
+Paper,64,Jaipur,Used,8.86
+Metal,89,Delhi,New,34.25
+Metal,48,Kolkata,New,48.42
+Paper,71,Pune,New,8.17
+Paper,39,Kolkata,Damaged,4.2
+Metal,85,Kolkata,Recyclable,57.6
+E waste,36,Hyderabad,Damaged,46.81
+Clothes,55,Mumbai,New,18.07
+Clothes,16,Jaipur,Damaged,7.61
+Paper,24,Jaipur,Damaged,4.04
+Clothes,97,Ahmedabad,Used,8.85
+Paper,57,Lucknow,Recyclable,11.13
+Others,119,Bangalore,Other,14.33
+Paper,78,Bangalore,New,7.41
+Clothes,45,Delhi,Used,6.11
+E waste,65,Jaipur,Used,41.28
+Metal,51,Bangalore,Recyclable,44.79
+E waste,124,Mumbai,New,79.99
+Clothes,36,Mumbai,Other,11.97
+Plastic,148,Kolkata,Damaged,6.38
+Glass,98,Lucknow,Recyclable,22.34
+Others,37,Jaipur,Other,10.87
+Clothes,139,Kolkata,Damaged,4.0
+Others,150,Ahmedabad,New,9.75
+Metal,84,Hyderabad,Damaged,34.43
+E waste,150,Lucknow,Used,51.14
+Metal,139,Bangalore,Used,49.16
+Paper,12,Hyderabad,Damaged,7.38
+E waste,8,Chennai,Used,66.83
+Glass,88,Pune,Recyclable,19.86
+E waste,130,Mumbai,Other,60.45
+Plastic,26,Chennai,New,21.51
+E waste,82,Jaipur,Recyclable,60.21
+Metal,67,Kolkata,Damaged,20.91
+Paper,77,Pune,New,10.91
+E waste,95,Bangalore,Recyclable,56.38
+E waste,43,Pune,New,64.96
+Paper,99,Delhi,Damaged,6.92
+Glass,76,Hyderabad,Used,12.8
+Metal,41,Mumbai,New,36.41
+Metal,149,Mumbai,Other,50.82
+E waste,145,Kolkata,Other,64.1
+E waste,139,Ahmedabad,Recyclable,61.17
+Glass,113,Lucknow,Used,21.41
+E waste,80,Pune,Other,63.12
+Clothes,129,Hyderabad,New,12.76
+Glass,53,Kolkata,Recyclable,26.82
+Glass,14,Delhi,New,22.63
+Clothes,97,Kolkata,Damaged,5.11
+Clothes,93,Ahmedabad,Damaged,5.73
+Metal,82,Kolkata,Used,35.48
+Plastic,71,Mumbai,Recyclable,19.98
+Clothes,52,Kolkata,Recyclable,14.01
+Plastic,138,Kolkata,New,12.57
+Others,112,Pune,Other,20.7
+E waste,92,Jaipur,Other,64.06
+Clothes,6,Ahmedabad,Recyclable,6.97
+Clothes,134,Hyderabad,Other,10.62
+Glass,28,Delhi,Used,21.17
+Others,90,Lucknow,Recyclable,24.53
+Others,146,Bangalore,Used,13.3
+Plastic,71,Hyderabad,Recyclable,17.55
+Paper,14,Mumbai,Recyclable,9.19
+E waste,45,Hyderabad,Used,44.38
+E waste,9,Chennai,Damaged,26.66
+Paper,123,Kolkata,Damaged,6.06
+Paper,14,Chennai,Used,6.56
+Plastic,103,Kolkata,Used,16.07
+Plastic,94,Chennai,New,21.33
+Paper,39,Chennai,Other,9.08
+Glass,44,Ahmedabad,Recyclable,30.32
+Plastic,142,Chennai,Used,13.0
+Metal,66,Jaipur,Used,40.42
+Glass,129,Delhi,Recyclable,17.04
+Clothes,109,Chennai,Other,6.84
+Clothes,123,Ahmedabad,New,9.97
+Clothes,71,Mumbai,Used,4.46
+Clothes,93,Hyderabad,Damaged,4.0
+Metal,147,Hyderabad,Used,42.5
+Paper,121,Pune,New,10.16
+Others,96,Delhi,Used,13.09
+Paper,94,Mumbai,Used,7.04
+Others,102,Ahmedabad,New,12.47
+Clothes,17,Bangalore,Damaged,9.33
+Plastic,57,Lucknow,Used,13.05
+E waste,34,Ahmedabad,New,72.22
+Metal,93,Lucknow,New,47.02
+E waste,97,Hyderabad,Used,60.88
+E waste,107,Pune,Damaged,40.48
+E waste,100,Lucknow,Damaged,30.08
+Clothes,6,Mumbai,Other,6.23
+Glass,75,Kolkata,Used,12.56
+Clothes,112,Lucknow,Other,9.52
+Others,127,Ahmedabad,New,16.27
+E waste,18,Kolkata,Other,40.59
+E waste,119,Ahmedabad,Damaged,29.2
+E waste,56,Pune,New,62.17
+Metal,101,Chennai,New,70.5
+Metal,147,Delhi,Recyclable,48.9
+Glass,77,Delhi,Other,18.07
+Glass,13,Bangalore,Damaged,14.05
+Glass,98,Delhi,Damaged,10.96
+Plastic,34,Pune,Other,10.65
+Paper,81,Hyderabad,New,7.29
+Metal,63,Mumbai,Recyclable,42.42
+Metal,19,Delhi,Recyclable,36.8
+Metal,95,Mumbai,Recyclable,28.95
+Clothes,140,Lucknow,Recyclable,7.88
+Clothes,66,Ahmedabad,Used,13.11
+Others,37,Lucknow,Other,9.45
+Plastic,12,Hyderabad,Damaged,8.79
+Paper,70,Delhi,Other,7.84
+Plastic,61,Lucknow,New,15.51
+Clothes,27,Mumbai,Recyclable,13.38
+Others,146,Jaipur,Recyclable,27.81
+Glass,18,Lucknow,New,20.25
+Clothes,135,Kolkata,Other,5.04
+Glass,142,Pune,Used,21.35
+Metal,77,Jaipur,Other,54.78
+Paper,38,Bangalore,Recyclable,12.66
+Metal,142,Lucknow,Recyclable,59.28
+Clothes,62,Chennai,New,18.87
+Others,147,Mumbai,New,35.26
+Others,110,Jaipur,Other,8.48
+Others,88,Kolkata,New,23.59
+Metal,73,Bangalore,Damaged,31.29
+Metal,68,Bangalore,Other,38.12
+Others,73,Lucknow,Damaged,8.67
+Others,16,Pune,Used,20.73
+Paper,19,Lucknow,Other,6.92
+Metal,32,Pune,Used,34.63
+Metal,85,Bangalore,Damaged,23.27
+E waste,41,Ahmedabad,Damaged,40.99
+Plastic,101,Pune,Recyclable,13.14
+Metal,83,Chennai,Damaged,25.89
+Plastic,122,Hyderabad,Damaged,10.37
+Metal,47,Kolkata,Damaged,31.99
+Paper,22,Lucknow,Used,9.89
+Paper,132,Lucknow,Damaged,5.79
+E waste,12,Kolkata,Damaged,48.43
+Plastic,9,Bangalore,Used,15.43
+Paper,149,Kolkata,Other,9.31
+Plastic,11,Ahmedabad,Used,14.64
+Glass,134,Kolkata,Other,21.16
+Clothes,118,Pune,Other,7.33
+Clothes,25,Pune,Recyclable,11.4
+Glass,12,Mumbai,New,34.41
+Others,27,Delhi,New,38.81
+Clothes,121,Mumbai,Recyclable,6.4
+E waste,32,Chennai,Damaged,41.17
+Paper,147,Bangalore,Recyclable,11.36
+Others,144,Jaipur,Used,13.55
+Metal,58,Ahmedabad,Damaged,25.85
+Paper,116,Mumbai,Other,10.55
+E waste,88,Jaipur,New,67.46
+Others,86,Lucknow,Recyclable,22.98
+Metal,16,Jaipur,Other,47.84
+E waste,105,Mumbai,Used,60.16
+Plastic,122,Lucknow,Used,15.28
+Paper,32,Kolkata,Used,9.31
+Clothes,12,Delhi,Used,7.47
+Clothes,11,Mumbai,Damaged,7.39
+Clothes,100,Jaipur,Damaged,4.0
+Paper,77,Chennai,New,12.96
+Paper,24,Bangalore,Used,7.97
+Paper,44,Pune,Other,9.8
+Metal,18,Kolkata,Recyclable,52.35
+Clothes,142,Pune,Recyclable,10.73
+Plastic,27,Delhi,Other,13.76
+Clothes,42,Mumbai,New,10.93
+Glass,33,Jaipur,Other,24.41
+Clothes,95,Mumbai,Damaged,8.14
+Plastic,143,Mumbai,Recyclable,18.56
+Others,57,Jaipur,Used,14.95
+Paper,127,Mumbai,New,8.12
+Paper,7,Hyderabad,Other,8.75
+Plastic,67,Hyderabad,Other,14.48
+Others,12,Lucknow,Damaged,17.46
+Plastic,68,Pune,Recyclable,17.25
+Others,30,Kolkata,Damaged,5.98
+Plastic,29,Jaipur,Used,15.96
+Glass,150,Bangalore,Other,18.56
+Plastic,114,Jaipur,Used,11.5
+Clothes,52,Bangalore,New,17.42
+E waste,130,Pune,Used,48.03
+E waste,138,Mumbai,Recyclable,72.21
+Others,31,Ahmedabad,New,45.43
+Clothes,52,Bangalore,Recyclable,13.99
+Metal,74,Hyderabad,Other,35.7
+E waste,15,Mumbai,New,54.88
+Metal,120,Hyderabad,New,48.03
+Paper,10,Ahmedabad,Other,9.73
+Clothes,69,Mumbai,Other,7.9
+Clothes,137,Delhi,Damaged,4.0
+Others,106,Lucknow,New,30.44
+Metal,13,Hyderabad,Other,55.14
+Paper,69,Delhi,Other,7.8
+Plastic,18,Delhi,Damaged,9.59
+Metal,141,Jaipur,New,55.41
+Glass,46,Chennai,Used,17.37
+Paper,6,Bangalore,Recyclable,7.48
+E waste,10,Hyderabad,Used,42.63
+Others,31,Jaipur,Other,9.13
+Plastic,135,Ahmedabad,Used,10.22
+Paper,62,Delhi,Recyclable,12.94
+E waste,88,Pune,Recyclable,59.74
+Paper,80,Hyderabad,Recyclable,11.9
+Plastic,142,Delhi,Recyclable,17.11
+Clothes,69,Ahmedabad,Recyclable,5.55
+Glass,86,Pune,Used,22.25
+Plastic,125,Kolkata,Recyclable,10.78
+Paper,29,Chennai,Damaged,6.1
+Glass,26,Bangalore,Recyclable,19.01
+Clothes,144,Chennai,Damaged,6.27
+Others,33,Lucknow,Other,27.65
+E waste,44,Hyderabad,Used,67.47
+Others,147,Pune,New,33.4
+Plastic,143,Mumbai,Recyclable,19.28
+Glass,53,Jaipur,Other,18.59
+Glass,125,Mumbai,Recyclable,24.87
+Clothes,135,Bangalore,Other,7.08
+Others,141,Jaipur,Damaged,6.73
+Metal,104,Pune,Recyclable,48.03
+Others,53,Pune,Other,21.6
+Clothes,25,Lucknow,Damaged,4.79
+Metal,82,Delhi,New,34.02
+Glass,37,Lucknow,Other,27.76
+Plastic,26,Pune,Damaged,9.2
+E waste,150,Pune,Other,53.76
+Metal,141,Delhi,Damaged,25.08
+Others,32,Chennai,Used,30.34
+Clothes,57,Lucknow,Used,10.66
+Plastic,101,Ahmedabad,Other,17.71
+Metal,51,Jaipur,Used,34.1
+Metal,65,Chennai,Other,52.71
+Metal,82,Ahmedabad,Recyclable,54.08
+Glass,93,Hyderabad,Other,14.26
+Glass,83,Hyderabad,Other,19.01
+Plastic,38,Ahmedabad,Used,12.51
+Plastic,37,Lucknow,Recyclable,17.71
+Metal,75,Mumbai,New,55.4
+Metal,115,Jaipur,Damaged,34.06
+Glass,16,Hyderabad,Damaged,18.17
+Metal,106,Hyderabad,Used,23.93
+E waste,34,Ahmedabad,Used,41.83
+Clothes,89,Chennai,New,12.83
+Glass,89,Chennai,Damaged,13.68
+Glass,88,Kolkata,Other,14.04
+Plastic,36,Jaipur,Other,16.01
+Plastic,70,Kolkata,Used,16.96
+Others,74,Chennai,Other,16.36
+Paper,90,Delhi,Damaged,4.86
+Others,127,Mumbai,Damaged,7.18
+E waste,14,Jaipur,Used,37.35
+Clothes,137,Pune,Damaged,8.23
+Plastic,36,Chennai,Other,17.04
+Plastic,9,Bangalore,New,18.17
+Glass,74,Lucknow,New,33.15
+Paper,137,Ahmedabad,New,9.1
+Metal,148,Kolkata,Damaged,33.04
+Glass,135,Chennai,Other,24.9
+E waste,29,Pune,Used,47.32
+Clothes,38,Kolkata,Other,15.02
+Plastic,106,Bangalore,Other,14.37
+Metal,93,Pune,New,39.58
+Metal,15,Jaipur,Other,52.74
+E waste,47,Mumbai,Used,67.38
+Others,73,Ahmedabad,Used,23.83
+Paper,104,Delhi,Damaged,6.67
+Glass,58,Bangalore,Damaged,13.26
+Plastic,116,Jaipur,New,19.17
+Metal,89,Jaipur,New,71.66
+E waste,83,Chennai,Recyclable,43.64
+Glass,77,Chennai,Used,18.48
+E waste,36,Pune,New,64.47
+Paper,7,Hyderabad,New,13.05
+Plastic,73,Mumbai,Other,15.18
+Metal,88,Kolkata,New,65.83
+Paper,119,Kolkata,Recyclable,10.43
+Paper,114,Jaipur,New,11.74
+E waste,18,Kolkata,Damaged,44.77
+Paper,132,Delhi,Other,10.74
+Others,46,Chennai,Damaged,5.29
+Paper,51,Delhi,Recyclable,7.39
+Others,61,Delhi,New,31.38
+Clothes,139,Lucknow,Used,7.22
+Paper,43,Jaipur,Recyclable,7.39
+Glass,150,Jaipur,Used,19.68
+Metal,130,Hyderabad,Damaged,26.91
+Clothes,22,Lucknow,Used,10.42
+Clothes,83,Jaipur,Used,12.71
+Plastic,110,Hyderabad,Recyclable,15.33
+Others,49,Kolkata,Recyclable,32.3
+Glass,130,Pune,Used,20.71
+Glass,7,Mumbai,Recyclable,21.53
+Plastic,13,Kolkata,Damaged,6.87
+Clothes,55,Lucknow,Used,6.0
+Glass,59,Hyderabad,Used,20.97
+Clothes,128,Mumbai,Recyclable,10.74
+Clothes,94,Mumbai,Damaged,4.98
+Metal,99,Chennai,Recyclable,46.75
+Glass,18,Kolkata,Damaged,13.18
+Metal,90,Lucknow,Damaged,25.23
+Glass,143,Kolkata,Used,19.06
+Glass,19,Bangalore,Other,19.58
+Metal,119,Jaipur,Other,48.74
+Paper,64,Kolkata,Other,6.65
+Paper,92,Bangalore,Damaged,5.7
+Plastic,24,Hyderabad,Recyclable,14.35
+E waste,98,Bangalore,Damaged,45.3
+Plastic,70,Bangalore,Used,15.25
+Paper,59,Mumbai,New,10.14
+Glass,15,Delhi,Used,24.97
+E waste,105,Chennai,Used,38.65
+Paper,60,Hyderabad,Recyclable,7.68
+E waste,48,Jaipur,Damaged,27.27
+Others,140,Jaipur,Used,28.48
+Clothes,46,Ahmedabad,Other,10.75
+Clothes,19,Hyderabad,Damaged,6.55
+Others,120,Hyderabad,Damaged,9.51
+Metal,78,Pune,Used,36.95
+Paper,70,Ahmedabad,Used,5.76
+Clothes,50,Jaipur,Other,9.62
+Others,147,Chennai,Recyclable,19.57
+Clothes,65,Chennai,Recyclable,9.89
+E waste,13,Bangalore,Used,64.03
+E waste,84,Jaipur,Damaged,32.39
+Paper,24,Chennai,Used,7.21
+Metal,14,Jaipur,Other,54.79
+Clothes,51,Mumbai,Recyclable,7.99
+E waste,28,Bangalore,Other,54.29
+Metal,110,Ahmedabad,New,49.62
+Clothes,14,Bangalore,Recyclable,14.35
+Others,85,Mumbai,Recyclable,31.44
+Metal,91,Bangalore,Used,30.12
+E waste,108,Ahmedabad,Recyclable,55.98
+Metal,54,Mumbai,Recyclable,31.42
+Plastic,95,Lucknow,Used,13.1
+Plastic,135,Jaipur,Recyclable,18.18
+E waste,138,Chennai,Recyclable,61.44
+Others,60,Jaipur,New,25.49
+Plastic,71,Ahmedabad,Other,17.75
+Metal,36,Pune,Used,52.41
+E waste,52,Ahmedabad,Used,56.15
+Glass,68,Bangalore,Other,26.7
+Paper,134,Delhi,New,9.4
+Clothes,150,Kolkata,Used,5.48
+E waste,39,Jaipur,Recyclable,66.27
+Paper,91,Ahmedabad,Used,9.7
+E waste,55,Mumbai,Recyclable,52.26
+Others,134,Hyderabad,Recyclable,12.77
+Glass,74,Mumbai,New,31.34
+Plastic,132,Bangalore,Other,11.84
+Metal,68,Chennai,Other,28.73
+Glass,86,Bangalore,Used,16.63
+Glass,78,Lucknow,Recyclable,28.16
+E waste,147,Bangalore,New,90.24
+Clothes,126,Lucknow,Damaged,5.48
+Paper,77,Chennai,Recyclable,11.51
+Plastic,38,Kolkata,New,25.05
+E waste,139,Bangalore,Used,34.36
+E waste,108,Pune,New,61.82
+Clothes,22,Kolkata,Used,5.62
+Paper,53,Mumbai,Used,9.09
+Plastic,36,Chennai,Other,15.18
+Others,141,Jaipur,Recyclable,31.32
+Metal,90,Kolkata,New,54.5
+Glass,38,Bangalore,Damaged,15.54
+Metal,86,Jaipur,Used,37.55
+Paper,46,Pune,Used,9.21
+Others,98,Pune,Other,17.67
+Plastic,149,Chennai,Other,15.13
+Metal,61,Chennai,Other,40.47
+Glass,65,Ahmedabad,Damaged,12.94
+Clothes,109,Delhi,Other,13.68
+E waste,80,Chennai,Recyclable,72.89
+Plastic,146,Mumbai,Used,9.48
+Plastic,143,Kolkata,New,22.84
+Others,10,Bangalore,Recyclable,16.38
+Glass,31,Delhi,New,34.77
+Clothes,59,Kolkata,New,18.13
+Metal,63,Ahmedabad,New,62.76
+E waste,10,Mumbai,Other,65.79
+Others,63,Kolkata,Other,15.2
+Paper,78,Ahmedabad,Damaged,4.0
+Metal,112,Mumbai,Other,35.24
+Glass,80,Ahmedabad,Other,15.84
+Clothes,39,Jaipur,Other,15.76
+Others,56,Mumbai,Damaged,15.29
+Paper,29,Bangalore,Damaged,7.36
+Metal,121,Chennai,Recyclable,56.46
+Clothes,108,Bangalore,New,18.35
+Clothes,72,Lucknow,Recyclable,14.95
+Others,25,Lucknow,Recyclable,35.69
+Glass,23,Chennai,New,24.15
+Glass,63,Chennai,Other,25.79
+Metal,80,Delhi,Damaged,29.97
+Others,97,Kolkata,Damaged,16.46
+Metal,135,Pune,Other,40.44
+Metal,139,Mumbai,Recyclable,34.33
+Paper,35,Lucknow,Other,8.64
+Paper,26,Delhi,Used,8.93
+Metal,43,Pune,Damaged,23.14
+Glass,142,Bangalore,Damaged,13.65
+Plastic,66,Pune,Damaged,9.14
+E waste,74,Kolkata,New,86.61
+Glass,122,Mumbai,Damaged,14.11
+Glass,81,Kolkata,Used,16.51
+Clothes,35,Jaipur,Other,13.9
+Glass,102,Kolkata,New,31.45
+Plastic,22,Bangalore,New,20.74
+Paper,6,Bangalore,Recyclable,11.34
+E waste,69,Lucknow,Damaged,41.57
+Others,14,Kolkata,Used,30.23
+Glass,127,Lucknow,Damaged,12.26
+Clothes,98,Chennai,Damaged,5.81
+Metal,141,Pune,Used,43.26
+Clothes,133,Pune,Other,9.1
+E waste,6,Bangalore,Other,48.51
+Metal,123,Jaipur,Recyclable,37.77
+Others,19,Delhi,Used,23.83
+E waste,116,Ahmedabad,Used,52.52
+E waste,40,Chennai,Damaged,43.13
+E waste,16,Pune,Damaged,29.46
+Metal,50,Delhi,Recyclable,40.94
+Others,13,Mumbai,New,13.36
+Metal,23,Bangalore,Used,51.57
+E waste,61,Bangalore,Damaged,28.85
+E waste,82,Bangalore,Recyclable,43.84
+Paper,148,Bangalore,Recyclable,6.58
+Others,120,Chennai,Used,12.44
+Metal,41,Jaipur,Damaged,28.4
+Clothes,83,Ahmedabad,Damaged,6.9
+Metal,77,Mumbai,New,55.03
+Clothes,100,Pune,Recyclable,7.1
+Paper,92,Mumbai,New,13.41
+Paper,50,Pune,Other,10.49
+Metal,33,Bangalore,Other,39.48
+E waste,27,Bangalore,Recyclable,53.98
+Clothes,87,Pune,New,14.6
+Clothes,146,Delhi,Used,4.55
+E waste,132,Pune,New,83.68
+Metal,16,Kolkata,Recyclable,34.21
+Others,81,Ahmedabad,Recyclable,26.37
+Metal,140,Ahmedabad,New,70.67
+Glass,11,Chennai,Used,19.77
+Metal,85,Kolkata,Used,24.79
+Metal,147,Pune,Other,37.36
+Others,112,Chennai,New,27.88
+Others,115,Jaipur,Other,25.21
+Others,116,Jaipur,Used,15.33
+Plastic,86,Jaipur,Damaged,8.84
+Others,60,Delhi,Recyclable,13.43
+Metal,96,Lucknow,Damaged,17.84
+Clothes,46,Jaipur,Other,7.29
+Clothes,12,Hyderabad,Used,10.1
+Clothes,103,Kolkata,Recyclable,13.29
+Others,36,Pune,Other,28.02
+Plastic,95,Pune,Damaged,11.24
+Glass,37,Hyderabad,New,21.71
+Metal,126,Hyderabad,Damaged,27.72
+Plastic,16,Jaipur,Damaged,8.51
+Glass,40,Mumbai,Damaged,17.37
+Plastic,140,Hyderabad,Used,14.47
+Glass,32,Ahmedabad,Used,18.26
+Plastic,115,Mumbai,Damaged,11.33
+E waste,112,Delhi,Damaged,36.2
+Metal,33,Lucknow,Other,46.35
+Others,138,Lucknow,Used,23.43
+Others,122,Ahmedabad,Other,9.41
+Clothes,148,Jaipur,Recyclable,15.77
+Glass,131,Bangalore,New,19.02
+Clothes,81,Kolkata,Damaged,6.94
+E waste,109,Kolkata,Recyclable,57.81
+Others,94,Delhi,Recyclable,11.25
+Paper,39,Kolkata,Other,11.56
+Glass,135,Mumbai,New,22.35
+Glass,32,Pune,Used,24.03
+E waste,96,Bangalore,Recyclable,44.28
+Plastic,55,Kolkata,Used,15.15
+Glass,81,Mumbai,Damaged,14.86
+Clothes,126,Ahmedabad,Used,6.2
+Clothes,35,Delhi,Used,12.52
+Glass,26,Hyderabad,Recyclable,25.18
+Clothes,102,Kolkata,Other,9.36
+Others,146,Jaipur,Damaged,9.53
+Paper,123,Delhi,Damaged,4.85
+Clothes,65,Kolkata,Used,11.09
+Glass,27,Delhi,Used,17.98
+Clothes,44,Lucknow,New,13.31
+Plastic,105,Kolkata,Damaged,7.42
+Metal,29,Pune,New,59.96
+Clothes,47,Kolkata,New,10.65
+Metal,126,Delhi,Other,49.86
+Clothes,38,Pune,Other,9.7
+Clothes,116,Mumbai,Used,9.19
+Clothes,118,Chennai,Other,5.58
+Glass,134,Mumbai,Recyclable,24.28
+Others,140,Kolkata,Recyclable,27.56
+Paper,12,Delhi,Damaged,5.69
+Plastic,78,Chennai,Damaged,10.42
+Others,132,Bangalore,Other,15.91
+E waste,36,Pune,Recyclable,44.74
+Plastic,45,Pune,Recyclable,18.51
+Others,17,Chennai,Used,29.78
+Paper,82,Pune,Recyclable,11.62
+Others,11,Pune,Damaged,20.14
+Others,111,Mumbai,Recyclable,28.1
+Metal,13,Mumbai,Damaged,18.58
+Clothes,36,Mumbai,Used,9.86
+Plastic,57,Kolkata,New,21.08
+Others,56,Hyderabad,New,45.44
+Paper,116,Hyderabad,Damaged,4.22
+Metal,54,Bangalore,New,75.1
+Clothes,117,Hyderabad,Used,11.76
+E waste,141,Hyderabad,Used,55.91
+Plastic,61,Ahmedabad,Used,14.73
+E waste,141,Lucknow,New,72.48
+Clothes,54,Delhi,Other,12.36
+Clothes,64,Ahmedabad,New,14.04
+E waste,145,Jaipur,Used,38.13
+Clothes,9,Ahmedabad,Used,11.47
+Paper,69,Pune,New,7.92
+Paper,91,Mumbai,New,7.74
+Glass,123,Ahmedabad,Recyclable,27.9
+Paper,39,Hyderabad,New,14.64
+Glass,129,Delhi,Used,12.69
+Clothes,8,Bangalore,Recyclable,6.85
+Glass,14,Hyderabad,Used,23.21
+E waste,48,Chennai,Used,59.58
+Clothes,106,Chennai,Used,10.94
+Metal,28,Chennai,Recyclable,62.26
+E waste,50,Bangalore,Other,49.51
+Others,54,Kolkata,Other,28.3
+Clothes,37,Pune,Other,11.07
+Others,100,Pune,New,16.82
+Paper,92,Chennai,Used,6.23
+Plastic,14,Chennai,Used,13.13
+Plastic,87,Delhi,New,20.78
+Glass,114,Ahmedabad,Recyclable,26.41
+Metal,52,Lucknow,Used,51.97
+E waste,129,Kolkata,Recyclable,59.16
+Paper,31,Kolkata,Damaged,5.86
+Metal,137,Kolkata,Used,46.73
+Glass,122,Delhi,Damaged,12.41
+Others,112,Delhi,Used,16.43
+E waste,76,Hyderabad,Recyclable,59.29
+Clothes,97,Lucknow,Used,12.63
+Metal,103,Kolkata,Damaged,31.35
+E waste,13,Chennai,Used,48.72
+Others,67,Delhi,Damaged,15.33
+Plastic,137,Kolkata,Used,10.68
+Glass,71,Chennai,Damaged,16.53
+Clothes,93,Delhi,New,7.95
+E waste,26,Lucknow,Used,39.0
+Paper,21,Bangalore,New,13.21
+Paper,145,Lucknow,Used,5.04
+Plastic,51,Lucknow,Recyclable,18.37
+E waste,106,Delhi,Other,42.97
+Glass,26,Mumbai,Recyclable,24.82
+Plastic,140,Ahmedabad,Other,10.21
+Paper,68,Jaipur,Other,6.75
+Paper,55,Kolkata,Used,5.6
+Glass,93,Pune,Recyclable,19.33
+Clothes,135,Bangalore,Recyclable,7.12
+Glass,47,Ahmedabad,New,25.67
+Metal,148,Ahmedabad,Used,29.34
+Metal,68,Jaipur,Recyclable,48.38
+Metal,82,Bangalore,Damaged,36.12
+E waste,139,Pune,New,66.82
+Metal,89,Jaipur,Recyclable,48.16
+Plastic,68,Jaipur,New,20.75
+Clothes,34,Hyderabad,New,17.59
+Others,122,Kolkata,New,37.52
+Paper,50,Mumbai,Other,8.15
+E waste,77,Hyderabad,Other,62.17
+Glass,27,Pune,New,34.91
+Paper,61,Pune,Damaged,6.97
+Others,15,Chennai,Other,20.39
+Glass,145,Chennai,Other,16.88
+E waste,56,Mumbai,Recyclable,60.31
+Plastic,140,Lucknow,Recyclable,19.12
+Glass,52,Delhi,Used,22.24
+Paper,29,Pune,Damaged,4.99
+Others,103,Ahmedabad,Damaged,18.66
+Glass,50,Lucknow,Recyclable,24.04
+Clothes,91,Delhi,New,9.77
+Paper,94,Bangalore,New,7.83
+Paper,94,Hyderabad,Damaged,4.92
+Paper,8,Mumbai,Other,10.88
+Metal,48,Ahmedabad,Recyclable,41.16
+Clothes,104,Mumbai,Damaged,4.29
+Glass,121,Lucknow,Used,18.24
+E waste,7,Bangalore,Damaged,37.0
+Glass,146,Chennai,New,22.3
+Glass,129,Pune,Used,12.67
+Metal,137,Jaipur,Recyclable,56.0
+Metal,33,Delhi,Damaged,36.52
+Glass,52,Chennai,Other,17.47
+Plastic,74,Delhi,Damaged,8.68
+E waste,29,Lucknow,Other,45.02
+Metal,46,Pune,Used,50.55
+Clothes,28,Pune,Damaged,5.99
+Clothes,20,Ahmedabad,Damaged,5.98
+Clothes,116,Hyderabad,Recyclable,5.62
+Metal,88,Delhi,Damaged,35.5
+Others,39,Jaipur,Recyclable,18.09
+Others,110,Lucknow,Recyclable,32.97
+Others,92,Hyderabad,Other,29.4
+Metal,129,Chennai,Recyclable,38.41
+Plastic,77,Lucknow,Used,12.48
+Metal,145,Pune,Damaged,19.65
+Others,29,Mumbai,Damaged,14.07
+E waste,115,Chennai,Damaged,26.1
+Clothes,139,Jaipur,Recyclable,10.75
+Paper,115,Chennai,Damaged,6.89
+Clothes,150,Chennai,Other,9.36
+Clothes,124,Lucknow,Recyclable,16.09
+Paper,55,Chennai,Other,8.34
+Metal,8,Jaipur,New,51.72
+Others,33,Ahmedabad,Other,14.65
+Glass,130,Lucknow,Recyclable,15.67
+Metal,135,Mumbai,Used,40.9
+Others,109,Chennai,Other,16.14
+Plastic,118,Hyderabad,Used,12.15
+Metal,20,Jaipur,New,37.93
+Glass,147,Ahmedabad,Used,19.44
+Clothes,20,Lucknow,Other,7.71
+Glass,26,Ahmedabad,New,26.58
+E waste,97,Hyderabad,Used,62.66
+Glass,124,Lucknow,Other,16.94
+Metal,72,Delhi,Recyclable,52.67
+Glass,103,Bangalore,Recyclable,22.54
+Glass,133,Chennai,New,24.2
+Clothes,14,Hyderabad,Damaged,9.12
+Glass,41,Hyderabad,Used,23.09
+Others,32,Hyderabad,Used,29.74
+Plastic,135,Ahmedabad,Recyclable,15.56
+Clothes,67,Pune,Recyclable,9.46
+Others,138,Jaipur,Other,24.08
+E waste,15,Jaipur,New,56.25
+Clothes,105,Jaipur,Other,12.44
+Plastic,139,Delhi,Damaged,9.52
+Paper,115,Hyderabad,Recyclable,8.15
+Others,106,Ahmedabad,Recyclable,9.63
+E waste,12,Pune,Recyclable,71.42
+E waste,48,Jaipur,Other,48.02
+Others,110,Lucknow,Damaged,14.84
+Others,69,Chennai,Used,16.27
+Others,132,Chennai,Recyclable,33.62
+Clothes,105,Hyderabad,New,18.51
+Clothes,24,Delhi,Damaged,6.78
+Paper,111,Kolkata,New,10.44
+E waste,96,Mumbai,Damaged,39.81
+Glass,7,Jaipur,Damaged,12.2
+Others,72,Bangalore,Other,18.06
+Others,141,Ahmedabad,Used,14.75
+Metal,50,Lucknow,Other,56.06
+Metal,18,Pune,Recyclable,38.36
+Paper,45,Jaipur,Recyclable,10.46
+E waste,41,Bangalore,New,83.44
+Plastic,80,Hyderabad,Damaged,10.62
+Clothes,97,Kolkata,Damaged,4.08
+Glass,70,Mumbai,New,20.01
+Plastic,115,Kolkata,Other,11.46
+Clothes,33,Delhi,Damaged,8.38
+E waste,41,Hyderabad,Recyclable,68.3
+Clothes,8,Bangalore,New,20.21
+Glass,100,Chennai,Other,25.37
+Metal,102,Chennai,Used,25.4
+Plastic,84,Hyderabad,Other,11.89
+Others,128,Hyderabad,New,38.61
+Metal,117,Jaipur,Recyclable,52.59
+Plastic,118,Jaipur,Damaged,10.93
+Plastic,70,Jaipur,New,20.11
+Plastic,148,Chennai,Used,9.85
+E waste,11,Hyderabad,Other,58.4
+Paper,6,Hyderabad,New,8.82
+Plastic,15,Ahmedabad,Damaged,8.66
+Paper,82,Bangalore,Recyclable,7.54
+Others,138,Jaipur,New,18.38
+Paper,123,Kolkata,New,8.52
+E waste,27,Bangalore,Other,65.6
+E waste,101,Lucknow,Recyclable,74.43
+Others,76,Chennai,New,19.85
+Plastic,82,Bangalore,Recyclable,13.25
+Paper,86,Hyderabad,Used,8.87
+Clothes,46,Chennai,Used,6.5
+Clothes,70,Hyderabad,Recyclable,11.18
+Glass,97,Mumbai,Damaged,14.05
+Glass,56,Kolkata,Recyclable,19.99
+Plastic,110,Chennai,Recyclable,16.83
+Glass,24,Pune,Damaged,12.24
+E waste,85,Mumbai,New,77.8
+Clothes,138,Chennai,Used,13.1
+E waste,127,Chennai,Used,41.43
+Paper,103,Delhi,Damaged,6.43
+Metal,8,Chennai,New,52.8
+E waste,17,Mumbai,Recyclable,57.35
+Clothes,81,Kolkata,Damaged,4.0
+Paper,123,Jaipur,Other,10.2
+Plastic,49,Chennai,Used,14.6
+Others,129,Lucknow,New,14.22
+Paper,89,Lucknow,Other,5.88
+Glass,88,Hyderabad,Recyclable,16.88
+Plastic,12,Mumbai,Other,13.89
+Paper,33,Jaipur,Other,7.66
+Glass,56,Pune,Other,16.34
+Others,12,Bangalore,Recyclable,26.14
+E waste,108,Kolkata,New,82.58
+E waste,61,Jaipur,Other,71.72
+Clothes,20,Delhi,Damaged,5.6
+Paper,18,Mumbai,Other,10.5
+Plastic,11,Ahmedabad,Other,15.6
+Clothes,65,Delhi,Other,5.39
+Clothes,97,Delhi,Damaged,6.38
+Clothes,104,Ahmedabad,Damaged,4.02
+Clothes,100,Jaipur,New,16.91
+Plastic,135,Jaipur,New,19.32
+Paper,10,Jaipur,New,12.99
+Glass,83,Chennai,Recyclable,24.43
+Others,49,Chennai,Other,9.28
+Plastic,121,Lucknow,Recyclable,14.56
+Others,139,Pune,Used,12.91
+Metal,25,Pune,Other,45.25
+Clothes,57,Chennai,Used,9.66
+E waste,30,Kolkata,Used,42.97
+Paper,12,Ahmedabad,Recyclable,8.69
+Plastic,38,Hyderabad,Other,12.41
+Plastic,148,Pune,Damaged,9.67
+Plastic,43,Delhi,Damaged,9.61
+E waste,40,Delhi,Used,60.84
+Paper,125,Mumbai,Damaged,5.68
+Plastic,34,Jaipur,New,16.26
+Others,6,Hyderabad,New,18.08
+Plastic,32,Hyderabad,Damaged,7.71
+Glass,58,Pune,Recyclable,21.78
+Glass,130,Kolkata,Other,20.02
+Others,149,Ahmedabad,Other,17.07
+Clothes,75,Jaipur,New,7.96
+Clothes,58,Lucknow,Damaged,7.19
+E waste,8,Hyderabad,Used,52.79
+Others,143,Pune,Used,7.46
+Glass,67,Hyderabad,Other,21.5
+Others,45,Chennai,Damaged,11.51
+Others,90,Chennai,Recyclable,30.67
+Metal,88,Chennai,Damaged,33.02
+Glass,73,Pune,Recyclable,20.72
+E waste,143,Ahmedabad,Other,67.52
+Others,39,Chennai,Recyclable,13.59
+Others,147,Ahmedabad,Damaged,8.58
+Paper,66,Mumbai,Used,10.09
+Glass,54,Ahmedabad,New,29.36
+E waste,52,Hyderabad,Damaged,38.88
+Plastic,141,Delhi,Used,9.68
+Plastic,79,Jaipur,Other,12.29
+Others,127,Lucknow,Other,25.69
+Clothes,71,Mumbai,Used,10.98
+E waste,60,Pune,Recyclable,48.46
+E waste,138,Delhi,Used,36.92
+Plastic,103,Kolkata,Damaged,11.18
+Plastic,28,Delhi,Used,11.62
+Plastic,69,Ahmedabad,Used,16.07
+Others,74,Jaipur,Used,8.77
+Others,43,Hyderabad,Damaged,12.85
+Metal,134,Delhi,Recyclable,59.98
+E waste,147,Bangalore,Recyclable,70.96
+Clothes,9,Bangalore,Damaged,7.61
+Glass,148,Jaipur,Recyclable,20.07
+Plastic,46,Ahmedabad,Damaged,8.22
+Paper,41,Bangalore,Used,5.99
+E waste,145,Jaipur,Damaged,24.26
+Others,28,Bangalore,Used,22.88
+Metal,70,Bangalore,Recyclable,43.97
+Metal,94,Delhi,Recyclable,59.84
+Plastic,91,Hyderabad,Damaged,8.98
+Metal,109,Delhi,Other,43.1
+Clothes,64,Mumbai,Other,11.44
+Glass,22,Hyderabad,Recyclable,30.21
+E waste,146,Ahmedabad,New,59.59
+Clothes,107,Bangalore,Recyclable,9.56
+Paper,53,Lucknow,Damaged,6.07
+Others,89,Kolkata,New,28.45
+Metal,30,Lucknow,Other,32.77
+Plastic,75,Pune,New,16.11
+Clothes,29,Hyderabad,Recyclable,10.22
+Clothes,115,Jaipur,Other,6.08
+Clothes,45,Kolkata,Used,8.53
+E waste,104,Jaipur,New,65.15
+Plastic,49,Bangalore,Damaged,9.59
+Glass,86,Mumbai,Used,16.46
+Glass,43,Bangalore,Recyclable,23.98
+Others,78,Delhi,New,26.39
+Others,15,Hyderabad,Used,9.66
+Glass,82,Lucknow,New,33.52
+Glass,139,Lucknow,Damaged,13.93
+E waste,99,Ahmedabad,New,64.8
+E waste,92,Hyderabad,Damaged,25.9
+Others,98,Bangalore,Damaged,10.45
+Others,109,Lucknow,Used,9.14
+E waste,96,Hyderabad,New,71.34
+Clothes,18,Ahmedabad,Other,14.08
+Paper,107,Delhi,New,7.56
+E waste,72,Chennai,Recyclable,76.31
+Plastic,10,Kolkata,Recyclable,11.45
+E waste,138,Bangalore,Damaged,43.35
+Paper,46,Pune,New,12.67
+Metal,136,Hyderabad,Damaged,29.95
+Metal,50,Kolkata,Used,36.3
+Paper,144,Pune,Damaged,4.0
+E waste,104,Delhi,Used,58.54
+Others,5,Chennai,Used,30.16
+Clothes,120,Lucknow,Recyclable,8.11
+Plastic,117,Hyderabad,New,17.2
+Clothes,89,Delhi,Used,7.34
+Glass,148,Jaipur,Other,20.72
+Paper,96,Bangalore,Used,5.62
+E waste,109,Delhi,Other,62.34
+Metal,6,Pune,Damaged,26.18
+Others,78,Lucknow,Other,25.54
+E waste,144,Pune,Other,50.33
+Metal,148,Hyderabad,New,69.15
+Metal,43,Jaipur,Recyclable,54.12
+E waste,106,Pune,Used,39.75
+Metal,98,Mumbai,New,56.2
+E waste,85,Pune,Damaged,44.35
+Clothes,62,Bangalore,Used,11.68
+Plastic,60,Hyderabad,Other,11.06
+Paper,24,Jaipur,Used,7.91
+Plastic,127,Hyderabad,Used,10.97
+Glass,54,Ahmedabad,New,27.0
+Paper,32,Ahmedabad,New,7.86
+Metal,45,Chennai,Damaged,36.55
+Plastic,17,Bangalore,Other,16.24
+Clothes,62,Delhi,Recyclable,8.13
+Glass,101,Bangalore,New,27.83
+Paper,86,Bangalore,Recyclable,6.42
+Plastic,51,Mumbai,Damaged,11.38
+Clothes,85,Mumbai,Used,7.36
+Paper,88,Mumbai,Other,5.58
+Others,9,Chennai,Used,17.7
+Plastic,20,Mumbai,Damaged,9.91
+Clothes,122,Hyderabad,New,9.22
+Clothes,111,Bangalore,Recyclable,5.19
+Metal,16,Bangalore,Recyclable,60.12
+Paper,110,Ahmedabad,Recyclable,9.68
+Glass,114,Ahmedabad,Damaged,15.43
+Clothes,127,Ahmedabad,Other,8.34
+Metal,112,Lucknow,Used,46.07
+Clothes,148,Bangalore,Damaged,6.02
+Metal,5,Pune,Recyclable,31.89
+Paper,125,Pune,New,9.19
+Metal,147,Pune,New,62.82
+Glass,93,Delhi,Used,18.6
+Metal,43,Lucknow,New,43.92
+Clothes,32,Bangalore,Used,13.63
+E waste,50,Lucknow,Recyclable,45.45
+Plastic,63,Ahmedabad,Recyclable,21.97
+Paper,130,Delhi,Recyclable,8.87
+Clothes,107,Lucknow,Used,9.29
+Clothes,34,Chennai,Recyclable,12.07
+Glass,77,Jaipur,Recyclable,21.26
+Paper,104,Bangalore,Used,8.29
+E waste,62,Delhi,Other,66.62
+Plastic,113,Delhi,Recyclable,10.4
+Glass,93,Mumbai,Used,22.42
+Others,68,Bangalore,Recyclable,27.33
+Clothes,61,Hyderabad,Recyclable,10.15
+Metal,13,Mumbai,Damaged,28.27
+Others,45,Chennai,Used,14.65
+Paper,86,Jaipur,Recyclable,10.64
+Others,40,Jaipur,New,22.0
+Others,87,Ahmedabad,Recyclable,21.46
+Others,70,Ahmedabad,Damaged,20.1
+Paper,57,Chennai,Recyclable,9.36
+E waste,14,Lucknow,Recyclable,79.28
+Paper,21,Delhi,Recyclable,10.47
+E waste,144,Pune,Recyclable,65.74
+E waste,55,Jaipur,Other,45.63
+Paper,122,Delhi,Other,6.97
+Clothes,136,Bangalore,Recyclable,14.66
+E waste,25,Delhi,Used,40.68
+Clothes,88,Jaipur,Damaged,4.0
+Clothes,115,Bangalore,New,16.43
+Clothes,128,Pune,Used,9.63
+Clothes,26,Bangalore,New,20.78
+Plastic,133,Delhi,Recyclable,12.62
+Others,100,Chennai,Used,27.72
+Clothes,115,Kolkata,Other,7.43
+Glass,144,Bangalore,Used,16.53
+Plastic,53,Bangalore,Damaged,10.65
+E waste,78,Pune,New,50.22
+Paper,65,Jaipur,Recyclable,10.2
+Others,9,Pune,Other,20.72
+Clothes,128,Chennai,Other,12.49
+E waste,116,Ahmedabad,Other,46.29
+Metal,28,Jaipur,Damaged,38.53
+E waste,96,Chennai,Other,52.78
+E waste,28,Lucknow,New,94.0
+Clothes,69,Jaipur,Damaged,8.4
+Glass,104,Chennai,Damaged,15.01
+Glass,37,Chennai,Used,15.04
+Paper,92,Pune,New,12.94
+Paper,27,Mumbai,New,9.76
+Clothes,98,Hyderabad,Other,11.84
+Glass,63,Delhi,Damaged,12.86
+E waste,123,Hyderabad,Used,35.37
+Clothes,109,Kolkata,Damaged,5.86
+Paper,150,Ahmedabad,Other,6.8
+Glass,80,Bangalore,Used,12.77
+Glass,17,Bangalore,Used,19.66
+Glass,58,Lucknow,New,24.42
+Plastic,93,Lucknow,Recyclable,14.28
+Clothes,131,Pune,Used,9.49
+Paper,56,Pune,Used,8.1
+Paper,126,Ahmedabad,Other,7.75
+Clothes,65,Lucknow,Damaged,6.58
+Glass,135,Bangalore,Recyclable,26.18
+E waste,140,Bangalore,Other,58.41
+Clothes,14,Ahmedabad,New,15.68
+E waste,45,Mumbai,New,63.38
+Paper,138,Mumbai,New,9.4
+Others,71,Kolkata,Used,15.58
+E waste,133,Chennai,Recyclable,43.34
+Clothes,21,Lucknow,Recyclable,6.32
+E waste,109,Bangalore,New,60.16
+Clothes,49,Jaipur,Used,13.28
+Others,46,Pune,Recyclable,19.27
+E waste,70,Mumbai,Used,62.72
+Clothes,150,Hyderabad,Used,5.08
+Paper,113,Ahmedabad,Damaged,4.0
+Paper,33,Pune,Other,7.8
+Plastic,34,Lucknow,Other,17.07
+Clothes,53,Hyderabad,Damaged,8.05
+Others,125,Mumbai,Damaged,19.88
+E waste,118,Jaipur,Used,59.61
+Paper,43,Lucknow,Used,10.6
+Glass,63,Kolkata,New,32.8
+Metal,21,Bangalore,Recyclable,45.59
+Metal,121,Pune,Used,43.39
+Others,73,Mumbai,Other,7.73
+E waste,111,Pune,New,56.35
+Clothes,99,Mumbai,Other,14.86
+Plastic,122,Kolkata,Used,8.92
+Metal,84,Mumbai,Recyclable,58.62
+Glass,113,Hyderabad,Other,24.25
+Clothes,53,Mumbai,Damaged,6.97
+E waste,43,Ahmedabad,New,80.29
+Glass,104,Delhi,Used,22.9
+E waste,103,Chennai,Other,69.07
+E waste,73,Chennai,Damaged,43.78
+Paper,138,Mumbai,Used,5.59
+Plastic,59,Hyderabad,Other,13.02
+Others,32,Bangalore,Other,13.4
+Clothes,133,Bangalore,Damaged,5.48
+Plastic,60,Lucknow,New,19.52
+Others,119,Delhi,New,10.94
+Metal,139,Kolkata,Recyclable,45.07
+Paper,148,Pune,Other,10.15
+Metal,85,Ahmedabad,Used,49.64
+Clothes,73,Hyderabad,Other,10.57
+Clothes,71,Delhi,New,18.93
+Others,5,Mumbai,New,21.18
+Paper,134,Pune,Damaged,4.58
+E waste,88,Delhi,Recyclable,45.94
+Plastic,47,Jaipur,Damaged,6.64
+Plastic,75,Bangalore,Damaged,11.48
+Metal,33,Hyderabad,Recyclable,35.33
+Paper,128,Hyderabad,New,13.64
+Paper,129,Lucknow,Recyclable,7.08
+Paper,20,Jaipur,Used,7.47
+Clothes,105,Chennai,Used,11.02
+Glass,38,Hyderabad,New,21.91
+Plastic,38,Lucknow,Damaged,9.86
+Clothes,69,Kolkata,New,9.14
+Others,48,Kolkata,Other,10.37
+Others,145,Mumbai,Used,10.68
+Metal,100,Lucknow,Recyclable,40.85
+Glass,60,Hyderabad,Other,21.51
+E waste,97,Jaipur,Used,49.73
+Others,93,Jaipur,Used,11.37
+Clothes,74,Kolkata,Recyclable,7.77
+Clothes,13,Ahmedabad,Other,7.8
+Glass,75,Mumbai,Used,15.92
+Plastic,47,Lucknow,Damaged,12.31
+E waste,74,Bangalore,Recyclable,71.33
+Others,60,Lucknow,Damaged,8.8
+Plastic,106,Chennai,Used,9.48
+Metal,17,Hyderabad,Recyclable,33.38
+Clothes,94,Pune,Recyclable,7.19
+Others,146,Lucknow,Damaged,14.23
+Plastic,129,Lucknow,Damaged,7.25
+Others,9,Bangalore,Other,32.76
+Others,143,Mumbai,Recyclable,16.84
+Paper,93,Delhi,Recyclable,9.07
+Metal,19,Mumbai,New,60.91
+Clothes,25,Bangalore,Other,15.66
+Metal,27,Ahmedabad,Recyclable,48.1
+Others,104,Pune,Used,13.91
+Plastic,10,Chennai,Damaged,10.98
+Glass,7,Bangalore,Used,14.01
+E waste,17,Delhi,New,96.26
+Metal,34,Lucknow,New,72.34
+Plastic,89,Delhi,Used,12.25
+E waste,142,Hyderabad,Damaged,40.52
+Paper,107,Mumbai,Damaged,7.17
+Glass,46,Delhi,Other,16.86
+E waste,18,Delhi,Other,45.42
+Plastic,94,Hyderabad,Used,12.52
+Glass,50,Pune,Recyclable,26.5
+Plastic,110,Kolkata,Other,13.55
+Others,72,Lucknow,New,16.64
+Glass,6,Delhi,Other,23.6
+Metal,27,Lucknow,Damaged,23.36
+Others,95,Mumbai,Damaged,19.37
+Metal,104,Delhi,Other,51.42
+Others,43,Ahmedabad,Other,19.04
+Metal,126,Mumbai,New,65.56
+Plastic,107,Chennai,Used,15.54
+Glass,107,Kolkata,New,21.13
+Metal,101,Chennai,Other,52.87
+E waste,53,Lucknow,Other,49.39
+Clothes,25,Jaipur,New,17.1
+Metal,38,Lucknow,Damaged,20.11
+Glass,52,Mumbai,Damaged,16.43
+Plastic,118,Ahmedabad,Other,15.16
+Clothes,6,Kolkata,Recyclable,10.94
+Clothes,132,Kolkata,Other,8.73
+Paper,125,Mumbai,Used,7.91
+E waste,144,Pune,Other,47.55
+Others,92,Hyderabad,Used,11.65
+E waste,125,Hyderabad,Other,39.64
+Glass,99,Pune,Damaged,10.16
+Plastic,5,Ahmedabad,New,25.38
+Others,104,Pune,Used,6.71
+Paper,149,Delhi,Used,6.19
+Plastic,114,Ahmedabad,Other,15.76
+Glass,116,Mumbai,New,29.2
+E waste,145,Pune,Recyclable,68.03
+Plastic,41,Kolkata,New,15.71
+Metal,52,Ahmedabad,New,55.37
+Metal,128,Delhi,Damaged,34.07
+Clothes,57,Pune,Recyclable,14.84
+Metal,96,Jaipur,Used,40.57
+Metal,148,Chennai,Other,27.48
+Clothes,68,Mumbai,Recyclable,7.46
+E waste,55,Lucknow,Other,65.09
+Glass,27,Pune,New,32.67
+Others,27,Pune,Damaged,21.54
+Metal,130,Pune,Recyclable,34.12
+Plastic,121,Pune,Recyclable,11.1
+E waste,43,Ahmedabad,Other,53.95
+Glass,116,Jaipur,Recyclable,17.81
+Metal,64,Ahmedabad,Used,29.39
+Metal,38,Lucknow,Damaged,33.66
+Others,100,Kolkata,Other,20.12
+Metal,118,Bangalore,Used,43.46
+Paper,122,Lucknow,Used,5.22
+Plastic,103,Delhi,Used,12.28
+Paper,109,Lucknow,Other,7.56
+Plastic,113,Delhi,Recyclable,19.41
+Metal,77,Lucknow,Other,49.85
+E waste,122,Lucknow,Other,52.46
+Glass,65,Delhi,Recyclable,23.64
+Clothes,11,Lucknow,Recyclable,9.83
+Plastic,123,Lucknow,Recyclable,13.68
+Glass,5,Mumbai,New,20.85
+Metal,143,Jaipur,New,62.34
+E waste,128,Bangalore,Damaged,32.33
+Metal,90,Chennai,Recyclable,47.1
+E waste,150,Hyderabad,Used,61.13
+Metal,87,Kolkata,Used,40.46
+Plastic,39,Lucknow,Other,10.98
+Others,119,Bangalore,Damaged,18.67
+Plastic,14,Delhi,New,25.46
+Others,148,Pune,New,32.21
+Glass,31,Pune,Other,23.99
+Glass,48,Pune,Damaged,13.71
+Plastic,114,Hyderabad,New,21.3
+Clothes,38,Chennai,Recyclable,5.84
+E waste,87,Jaipur,Other,66.19
+Glass,19,Hyderabad,New,31.17
+Plastic,25,Kolkata,Recyclable,20.41
+Clothes,150,Kolkata,New,16.63
+Plastic,61,Ahmedabad,Used,15.2
+Clothes,28,Hyderabad,New,15.4
+Others,84,Chennai,Recyclable,9.0
+E waste,48,Hyderabad,Used,58.47
+Clothes,22,Chennai,Recyclable,14.99
+Metal,76,Delhi,New,44.47
+Plastic,125,Ahmedabad,Other,18.01
+Plastic,40,Jaipur,Recyclable,14.2
+Paper,45,Lucknow,Damaged,6.77
+Others,149,Bangalore,Used,19.56
+Plastic,90,Lucknow,New,20.61
+Clothes,122,Pune,Used,11.96
+Clothes,109,Ahmedabad,Recyclable,10.58
+Paper,27,Pune,Damaged,7.35
+Clothes,137,Mumbai,Recyclable,7.8
+Glass,75,Delhi,New,33.42
+Plastic,13,Pune,Other,14.73
+E waste,82,Chennai,Recyclable,56.07
+Plastic,81,Kolkata,Recyclable,18.5
+Glass,63,Chennai,Damaged,12.91
+Clothes,72,Pune,Recyclable,9.1
+Paper,97,Kolkata,Used,5.82
+Others,18,Mumbai,Used,10.05
+E waste,46,Chennai,New,72.18
+Plastic,97,Lucknow,Other,12.32
+Others,114,Jaipur,Recyclable,15.81
+Clothes,60,Bangalore,Used,5.66
+E waste,148,Kolkata,Used,42.16
+Metal,12,Kolkata,Damaged,25.66
+Plastic,102,Pune,Used,16.12
+Metal,132,Bangalore,Damaged,33.81
+Paper,8,Mumbai,Used,9.58
+Others,5,Bangalore,Used,14.53
+Paper,47,Lucknow,New,12.58
+Metal,139,Pune,Used,40.65
+E waste,129,Kolkata,Other,65.44
+Plastic,36,Bangalore,Recyclable,18.82
+Others,20,Jaipur,Used,13.47
+Metal,11,Hyderabad,Other,43.44
+Glass,42,Ahmedabad,Damaged,13.26
+Plastic,124,Lucknow,Damaged,9.21
+Paper,138,Bangalore,Used,5.03
+Glass,22,Pune,Recyclable,20.98
+Others,141,Jaipur,Used,11.21
+Glass,148,Chennai,Other,20.32
+Paper,69,Delhi,Damaged,6.74
+Glass,5,Kolkata,New,32.61
+Clothes,81,Ahmedabad,Used,12.41
+Metal,24,Bangalore,Used,51.1
+Metal,19,Chennai,Damaged,19.4
+Others,52,Chennai,Damaged,17.26
+Metal,26,Bangalore,Used,26.54
+Plastic,147,Jaipur,Used,11.84
+Glass,149,Chennai,Used,18.54
+E waste,116,Hyderabad,Damaged,38.29
+Glass,99,Jaipur,Used,13.21
+Clothes,92,Ahmedabad,Damaged,9.31
+Others,53,Pune,Other,30.92
+Others,120,Chennai,Damaged,15.15
+Metal,39,Mumbai,Recyclable,40.63
+Plastic,76,Bangalore,Damaged,8.95
+Others,55,Hyderabad,Used,12.7
+Plastic,113,Mumbai,Used,14.21
+E waste,98,Lucknow,New,76.0
+Clothes,43,Delhi,Damaged,5.57
+Others,19,Mumbai,Recyclable,31.0
+Paper,121,Delhi,Recyclable,11.09
+Glass,46,Ahmedabad,New,27.6
+Paper,105,Chennai,New,12.3
+Glass,138,Mumbai,New,26.88
+Glass,124,Chennai,New,24.25
+Glass,12,Delhi,Recyclable,27.33
+E waste,136,Ahmedabad,Recyclable,75.61
+Clothes,75,Delhi,Other,10.63
+Metal,71,Delhi,Damaged,20.52
+Others,62,Ahmedabad,Other,20.88
+Clothes,67,Kolkata,Other,6.31
+Paper,12,Hyderabad,Other,6.08
+Others,85,Delhi,Damaged,5.9
+Paper,43,Kolkata,Damaged,6.63
+Others,9,Mumbai,New,37.58
+Others,140,Hyderabad,Other,10.38
+Metal,120,Mumbai,Damaged,24.73
+Metal,36,Kolkata,Other,33.51
+Others,125,Kolkata,New,31.52
+Plastic,121,Kolkata,Other,11.67
+Clothes,52,Hyderabad,Recyclable,12.02
+Others,105,Hyderabad,Used,9.77
+Paper,145,Chennai,New,14.32
+Glass,109,Lucknow,Used,15.85
+Plastic,73,Chennai,Recyclable,19.08
+Metal,35,Pune,Damaged,29.24
+Clothes,52,Delhi,Damaged,5.59
+Metal,52,Chennai,Other,45.7
+E waste,150,Pune,Recyclable,46.46
+Others,101,Jaipur,Other,20.25
+Paper,65,Mumbai,Damaged,5.7
+Glass,19,Lucknow,Used,17.42
+Glass,131,Lucknow,Used,22.93
+Glass,126,Lucknow,Used,21.58
+Paper,115,Bangalore,New,7.85
+Plastic,109,Jaipur,New,19.95
+Glass,9,Bangalore,Used,20.12
+Plastic,46,Delhi,New,13.59
+Clothes,52,Lucknow,Other,5.82
+Metal,38,Mumbai,Other,32.46
+Plastic,61,Bangalore,New,24.43
+Plastic,122,Kolkata,Other,17.43
+Plastic,143,Jaipur,Damaged,7.34
+Paper,143,Delhi,Recyclable,6.38
+E waste,110,Pune,Recyclable,61.87
+Glass,69,Chennai,Damaged,17.61
+Clothes,78,Bangalore,Damaged,7.3
+Clothes,28,Lucknow,Damaged,9.43
+Glass,33,Lucknow,Used,15.66
+Metal,65,Jaipur,Used,31.25
+Plastic,139,Lucknow,Damaged,10.11
+Glass,130,Lucknow,Used,20.35
+Plastic,145,Bangalore,Recyclable,15.99
+Glass,18,Mumbai,Damaged,13.0
+Plastic,5,Jaipur,New,21.61
+E waste,103,Chennai,New,66.96
+E waste,48,Hyderabad,Used,36.47
+Others,35,Ahmedabad,Damaged,20.4
+Paper,65,Ahmedabad,Damaged,5.03
+Metal,100,Kolkata,Other,26.86
+Metal,17,Lucknow,Other,36.85
+Others,33,Chennai,Recyclable,20.83
+Metal,111,Delhi,Used,44.86
+Glass,40,Mumbai,Other,16.0
+Clothes,54,Bangalore,Recyclable,13.55
+E waste,50,Hyderabad,Recyclable,60.75
+Others,19,Jaipur,Used,20.12
+Paper,26,Lucknow,Recyclable,12.43
+Clothes,95,Bangalore,Other,6.61
+Metal,83,Mumbai,Damaged,28.05
+Metal,79,Jaipur,New,57.31
+Others,41,Ahmedabad,New,36.37
+Metal,65,Delhi,Other,54.23
+E waste,70,Lucknow,Other,44.08
+Plastic,104,Chennai,Used,10.91
+Clothes,65,Hyderabad,Other,14.41
+E waste,19,Ahmedabad,Damaged,26.1
+Glass,128,Pune,New,32.18
+Glass,47,Mumbai,New,23.84
+Others,117,Bangalore,Damaged,18.23
+Others,42,Hyderabad,Used,31.41
+Metal,84,Jaipur,Damaged,17.59
+Paper,8,Bangalore,Damaged,4.86
+Glass,78,Mumbai,Other,21.1
+Metal,35,Hyderabad,Damaged,27.25
+Clothes,80,Lucknow,Damaged,6.72
+Clothes,65,Hyderabad,Used,9.36
+Clothes,24,Bangalore,Used,10.93
+Plastic,69,Lucknow,Damaged,7.48
+Plastic,109,Delhi,Recyclable,14.87
+Glass,63,Chennai,New,31.59
+Others,87,Lucknow,New,41.26
+Paper,139,Delhi,Recyclable,11.25
+E waste,22,Jaipur,Recyclable,67.8
+Glass,122,Ahmedabad,Used,18.83
+Clothes,128,Ahmedabad,New,15.07
+Metal,139,Mumbai,Other,26.35
+Paper,133,Ahmedabad,Used,8.89
+Glass,43,Mumbai,Recyclable,20.22
+Plastic,134,Pune,New,14.27
+Others,35,Delhi,Recyclable,27.58
+Paper,61,Lucknow,New,10.27
+Others,37,Hyderabad,Damaged,10.31
+Clothes,87,Pune,Other,11.2
+E waste,28,Pune,Recyclable,54.53
+Others,9,Delhi,New,30.42
+Clothes,30,Lucknow,Recyclable,7.15
+Others,47,Mumbai,Other,15.19
+E waste,71,Ahmedabad,Recyclable,53.15
+Clothes,115,Bangalore,Other,8.41
+Metal,59,Mumbai,Recyclable,47.38
+Clothes,30,Hyderabad,Recyclable,12.59
+Others,119,Hyderabad,Damaged,8.14
+Paper,149,Delhi,Recyclable,12.05
+Glass,125,Pune,New,29.04
+Paper,53,Kolkata,Recyclable,11.28
+Clothes,128,Ahmedabad,Recyclable,12.33
+Metal,54,Pune,Other,45.19
+E waste,105,Ahmedabad,Recyclable,42.09
+Metal,109,Hyderabad,New,65.04
+Clothes,137,Lucknow,Other,5.75
+Plastic,66,Ahmedabad,Other,13.48
+E waste,115,Kolkata,Used,56.55
+Plastic,109,Pune,New,16.65
+E waste,8,Kolkata,Other,40.31
+Glass,37,Bangalore,New,21.59
+Plastic,103,Bangalore,New,15.57
+Paper,121,Pune,Damaged,5.48
+E waste,29,Ahmedabad,Other,57.45
+Metal,49,Kolkata,Used,32.12
+Clothes,143,Hyderabad,Used,8.51
+Paper,91,Ahmedabad,Used,7.58
+Metal,56,Delhi,New,56.71
+Others,51,Lucknow,New,25.52
+Paper,89,Delhi,Other,9.36
+Plastic,54,Kolkata,New,15.5
+Glass,34,Delhi,Damaged,15.74
+E waste,60,Pune,Recyclable,77.72
+Clothes,99,Bangalore,Recyclable,12.22
+Metal,65,Jaipur,Recyclable,58.93
+Others,30,Mumbai,Used,26.26
+Paper,56,Chennai,Used,7.37
+Plastic,96,Jaipur,New,14.42
+Plastic,113,Chennai,New,12.29
+Glass,137,Kolkata,Damaged,11.18
+Glass,40,Lucknow,Damaged,9.86
+Others,106,Jaipur,Damaged,10.75
+Plastic,76,Lucknow,Other,16.23
+E waste,42,Bangalore,Damaged,39.35
+Paper,146,Ahmedabad,Used,7.17
+Metal,69,Lucknow,Damaged,35.13
+Plastic,134,Lucknow,New,18.17
+Clothes,100,Pune,New,13.91
+E waste,28,Delhi,Used,60.05
+Paper,27,Hyderabad,Recyclable,9.85
+Glass,53,Hyderabad,Used,24.94
+Clothes,119,Pune,Used,7.27
+Glass,15,Ahmedabad,New,26.48
+Paper,128,Hyderabad,New,11.43
+Glass,90,Lucknow,Used,18.97
+Paper,63,Pune,New,8.42
+E waste,36,Chennai,Damaged,37.66
+E waste,51,Ahmedabad,New,89.12
+Paper,81,Hyderabad,Damaged,5.25
+Plastic,98,Lucknow,Damaged,12.01
+E waste,148,Ahmedabad,New,85.44
+Glass,110,Ahmedabad,Recyclable,28.25
+Paper,123,Delhi,Recyclable,8.73
+Glass,109,Chennai,New,26.2
+Paper,106,Hyderabad,New,12.35
+Metal,92,Hyderabad,Used,25.34
+Glass,149,Mumbai,New,22.29
+Glass,81,Lucknow,Damaged,9.9
+Others,100,Ahmedabad,Other,31.5
+Others,72,Pune,Other,21.19
+Others,80,Chennai,Other,16.02
+Plastic,52,Ahmedabad,Used,13.25
+Plastic,20,Jaipur,Damaged,9.56
+Paper,119,Jaipur,Other,8.75
+Glass,25,Bangalore,Damaged,11.76
+Glass,43,Kolkata,New,22.51
+Glass,44,Jaipur,Damaged,13.68
+Paper,141,Kolkata,Other,8.56
+Glass,71,Kolkata,New,32.82
+Others,113,Chennai,Recyclable,23.34
+Paper,141,Bangalore,Damaged,4.32
+Glass,132,Hyderabad,Used,17.97
+E waste,59,Chennai,Other,61.11
+Plastic,123,Hyderabad,New,20.33
+Plastic,79,Chennai,Damaged,6.39
+E waste,108,Chennai,New,73.64
+Plastic,86,Mumbai,New,15.6
+Glass,65,Chennai,New,25.0
+Metal,14,Bangalore,New,71.62
+Glass,27,Mumbai,Damaged,14.75
+Plastic,93,Jaipur,Other,18.08
+Plastic,34,Chennai,New,19.66
+Paper,63,Ahmedabad,Damaged,4.03
+E waste,79,Chennai,Recyclable,44.09
+Plastic,9,Chennai,Recyclable,11.01
+Others,103,Chennai,Used,23.79
+Glass,55,Delhi,Other,26.18
+Plastic,72,Pune,Other,10.67
+Clothes,103,Hyderabad,Damaged,6.77
+Plastic,141,Chennai,New,15.8
+Paper,12,Chennai,Used,8.0
+Paper,64,Delhi,Used,5.78
+Glass,19,Mumbai,New,21.8
+Others,40,Delhi,Damaged,5.89
+Metal,7,Ahmedabad,Other,58.08
+Paper,104,Kolkata,New,13.1
+Metal,53,Pune,New,73.4
+Metal,42,Hyderabad,New,39.67
+Plastic,47,Hyderabad,Used,13.76
+Clothes,141,Ahmedabad,Other,14.24
+Paper,38,Mumbai,Damaged,4.83
+Clothes,125,Jaipur,Damaged,6.2
+E waste,66,Kolkata,Other,73.23
+Others,120,Lucknow,New,37.09
+Glass,80,Lucknow,Recyclable,19.11
+Plastic,127,Hyderabad,Other,17.1
+E waste,129,Hyderabad,New,84.32
+Plastic,73,Hyderabad,Used,16.34
+E waste,35,Kolkata,Recyclable,77.22
+Plastic,119,Jaipur,New,20.98
+Others,26,Pune,Recyclable,24.64
+Plastic,22,Mumbai,Other,15.45
+E waste,108,Jaipur,New,70.91
+Others,27,Pune,Used,8.32
+Glass,19,Pune,Other,21.15
+E waste,34,Pune,Other,64.61
+Plastic,135,Hyderabad,New,20.97
+Metal,116,Hyderabad,Other,45.4
+Metal,140,Delhi,Used,28.51
+Glass,90,Mumbai,Recyclable,18.88
+Clothes,95,Ahmedabad,Used,5.66
+Clothes,73,Jaipur,New,11.41
+Plastic,75,Bangalore,Recyclable,19.48
+Others,85,Lucknow,Recyclable,20.97
+Metal,119,Ahmedabad,Used,35.03
+Paper,139,Jaipur,New,11.89
+Paper,129,Hyderabad,New,14.26
+Glass,132,Mumbai,Used,16.2
+Glass,50,Jaipur,Other,25.35
+E waste,74,Lucknow,Other,64.56
+Paper,65,Lucknow,New,10.22
+Paper,136,Lucknow,Recyclable,8.17
+Metal,63,Delhi,Recyclable,55.7
+Metal,44,Jaipur,Recyclable,52.2
+Others,116,Mumbai,Damaged,13.66
+Paper,128,Hyderabad,Other,6.11
+Plastic,10,Pune,Recyclable,17.65
+E waste,55,Mumbai,Recyclable,67.27
+Metal,51,Kolkata,Used,45.37
+Paper,100,Delhi,New,10.83
+Clothes,96,Ahmedabad,Recyclable,7.81
+Metal,43,Kolkata,Recyclable,51.13
+Paper,113,Chennai,Other,5.59
+Metal,114,Jaipur,New,44.11
+Paper,49,Mumbai,Used,10.44
+Clothes,5,Lucknow,Recyclable,16.3
+Plastic,143,Kolkata,Used,12.87
+Paper,98,Kolkata,Damaged,5.37
+Glass,124,Jaipur,Damaged,13.76
+Plastic,128,Bangalore,Damaged,6.57
+Paper,45,Kolkata,Damaged,5.06
+Paper,98,Ahmedabad,New,10.97
+Metal,106,Bangalore,New,68.73
+E waste,60,Delhi,Damaged,45.34
+Plastic,133,Kolkata,Recyclable,18.47
+Glass,119,Lucknow,Recyclable,15.9
+Plastic,119,Mumbai,Damaged,8.9
+Glass,78,Jaipur,New,31.89
+Metal,79,Chennai,New,35.98
+Paper,24,Delhi,Other,9.3
+Clothes,113,Kolkata,Recyclable,10.55
+Clothes,81,Ahmedabad,Recyclable,10.74
+Others,61,Ahmedabad,Damaged,19.87
+Others,133,Kolkata,Other,17.81
+E waste,69,Kolkata,Other,41.82
+Plastic,78,Mumbai,New,13.31
+Plastic,52,Mumbai,Used,14.92
+E waste,99,Hyderabad,Other,58.55
+Paper,89,Chennai,Used,6.84
+Metal,145,Bangalore,New,38.71
+Clothes,75,Jaipur,Other,10.1
+Paper,43,Pune,New,14.92
+Plastic,28,Pune,Damaged,10.01
+Glass,87,Lucknow,Recyclable,23.65
+Glass,65,Ahmedabad,Damaged,16.96
+Plastic,5,Pune,Other,12.82
+Paper,21,Chennai,Recyclable,10.0
+E waste,148,Hyderabad,Damaged,24.64
+Paper,139,Chennai,Used,7.06
+Clothes,93,Lucknow,Recyclable,13.81
+E waste,121,Mumbai,Other,60.44
+Clothes,20,Pune,New,17.8
+Metal,148,Jaipur,Other,43.44
+E waste,9,Jaipur,Used,65.62
+Metal,27,Bangalore,Recyclable,63.9
+Paper,130,Chennai,Used,9.56
+E waste,134,Jaipur,Used,49.38
+Plastic,99,Mumbai,Other,12.76
+E waste,63,Jaipur,New,80.85
+Paper,33,Delhi,Recyclable,9.66
+Others,143,Ahmedabad,Damaged,18.78
+Others,113,Delhi,Other,15.75
+Metal,23,Hyderabad,Damaged,30.99
+E waste,37,Pune,Recyclable,54.87
+Others,35,Jaipur,Damaged,13.7
+E waste,111,Mumbai,Recyclable,46.97
+Plastic,40,Lucknow,New,16.03
+Plastic,99,Ahmedabad,Other,17.52
+Metal,68,Mumbai,Used,25.86
+Metal,131,Ahmedabad,Other,39.9
+Metal,124,Chennai,Used,41.02
+Metal,88,Kolkata,Used,39.31
+Clothes,13,Hyderabad,Recyclable,8.68
+Others,63,Lucknow,Other,33.47
+Others,75,Bangalore,Used,7.2
+Metal,10,Mumbai,Used,32.87
+E waste,64,Ahmedabad,Damaged,48.41
+Paper,67,Jaipur,Other,7.11
+Others,45,Jaipur,Other,18.89
+E waste,39,Mumbai,New,62.31
+E waste,35,Kolkata,Used,56.27
+Clothes,79,Kolkata,Damaged,9.0
+Others,125,Kolkata,Damaged,14.43
+E waste,19,Jaipur,New,79.89
+Others,142,Hyderabad,Other,26.58
+Metal,45,Hyderabad,Damaged,32.68
+Plastic,145,Chennai,Other,18.58
+Paper,24,Ahmedabad,Damaged,5.02
+E waste,139,Pune,Recyclable,69.98
+Plastic,85,Delhi,Recyclable,11.33
+Metal,86,Lucknow,Damaged,27.33
+Others,24,Chennai,Damaged,13.91
+Plastic,141,Pune,Damaged,8.53
+Glass,97,Jaipur,Damaged,14.75
+Glass,73,Jaipur,Other,22.24
+Others,90,Hyderabad,New,33.82
+Plastic,106,Hyderabad,Recyclable,14.57
+Paper,25,Pune,Damaged,7.64
+E waste,141,Pune,Damaged,31.29
+Metal,66,Jaipur,New,36.54
+Clothes,138,Mumbai,New,11.73
