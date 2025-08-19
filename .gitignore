@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Added dataset containing custom datasets for training and demo
+dataset/
+
+saved_model/*.keras
+
 # Distribution / packaging
 .Python
 build/
