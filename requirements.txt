@@ -1,0 +1,15 @@
+streamlit
+pillow
+streamlit-folium
+folium
+tensorflow
+scikit-learn
+pandas 
+numpy 
+joblib
+opencv-python
+transformers
+diffusers
+timm
+torch
+
