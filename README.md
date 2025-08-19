@@ -57,3 +57,9 @@ This project goes beyond traditional marketplace apps by integrating deep learni
 - **Transformers (Hugging Face BLIP/BERT)** (Image captioning, NLP)
 - **folium, streamlit-folium** (Mapping & clustering)
 - **Joblib, Pandas, NumPy** (Data management)
+
+
+The models and features in this project were trained and tested on a custom dataset collected specifically for scrap classification and price prediction.
+The dataset contains images of various scrap types such as metals, plastics, electronics, and more, to ensure diversity. Each image is labeled with the appropriate scrap category.The daatset is taken from kaggle (https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2)
+
+you can try the live app :- https://scrapcart-ai-powered-scrap--marketplace-dm9knepxtgd6inftbyyzge.streamlit.app/
