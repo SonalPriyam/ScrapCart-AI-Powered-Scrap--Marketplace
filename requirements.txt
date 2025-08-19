@@ -12,4 +12,7 @@ transformers
 diffusers
 timm
 torch
+git-lfs
+opencv-python-headless
+
 
